@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -108,6 +108,11 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -142,7 +147,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -232,7 +237,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,8 +257,8 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -322,12 +327,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 6000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -394,7 +399,52 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drunkmuffalos",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "protectionfee",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "caravanraidquest",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wantedquest",
+		"price": 1000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 89
 }
