@@ -660,6 +660,14 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Core Mod v2.10"
+  },
+  {
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard ServoSkull Addon Mod v1.3"
+  },
+  {
     "author": "Ogliss",
     "name": "Adeptus Mechanicus: Armoury",
     "steamId": "1541438614",
@@ -734,5 +742,97 @@
   {
     "author": "mr_chimick",
     "name": "Toolkit Bridge - VFE Settlers"
+  },
+  {
+    "author": "TranslucencY",
+    "name": "Brain In a Jar"
+  },
+  {
+    "author": "Neceros",
+    "name": "Brain In a Jar Patch"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.1.1.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Giddy-Up! Add-on: Animal Saddles"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan"
+  },
+  {
+    "author": "Murmur",
+    "name": "Subsurface Conduit",
+    "steamId": "1609226728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PlayIgel, Alastair, Kayedon, SalmonToastie",
+    "name": "VFME - Caravan Packs!"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Eldar)"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Orkoids)",
+    "steamId": "1541518264",
+    "version": "1.6.1.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Tau, Kroot)"
+  },
+  {
+    "author": "Geminingen",
+    "name": "Ancient Eastern Armory"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.790"
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna"
+  },
+  {
+    "author": "Slabby",
+    "name": "WallHeater",
+    "steamId": "2298620806",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Seos",
+    "name": "VFE - Mechanoids : Drones"
   }
 ]
