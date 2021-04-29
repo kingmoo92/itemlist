@@ -12,10 +12,10 @@
     "version": "8.0.1"
   },
   {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
   },
   {
     "author": "erdelf",
@@ -24,72 +24,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
-  },
-  {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.3.754"
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core"
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Hunt for Me",
-    "steamId": "1593245720",
-    "version": "3.5.0.0"
-  },
-  {
-    "author": "Taveron",
-    "name": "Increased Stack"
-  },
-  {
-    "author": "Avius",
-    "name": "Locks"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
-  },
-  {
     "author": "notfood",
     "name": "ResearchPal",
     "steamId": "946390822",
     "version": "1.1.3.0"
-  },
-  {
-    "author": "VinaLx",
-    "name": "ResearchPal - Forked"
-  },
-  {
-    "author": "Roolo",
-    "name": "RunAndGun"
   },
   {
     "author": "CaptainPootis",
@@ -98,52 +36,10 @@
     "version": "20.0.15.1"
   },
   {
-    "author": "Sam",
-    "name": "Tilled Soil"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Arid Shrubland",
-    "steamId": "1836900626",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Australia"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Boreal Forest"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Desert"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Extreme Desert"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Ice Sheet"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Rainforest"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Swamp"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
@@ -158,16 +54,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool"
   },
@@ -178,26 +64,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
     "author": "Jascha Ephraim",
     "name": "Endless Rimworld"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Desire Paths",
-    "steamId": "2072410063",
-    "version": "0.8.102"
-  },
-  {
-    "author": "Jecrell,lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.3.1.0"
   },
   {
     "author": "Crlsniper",
@@ -208,20 +76,8 @@
     "name": "[FSF] Filth Vanishes With Rain And Time"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Share The Load",
-    "steamId": "1356838246",
-    "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -245,89 +101,19 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.1.1.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": "1217001091",
-    "version": "1.0.0.0"
+    "version": "2.1.2.0"
   },
   {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.811"
-  },
-  {
-    "author": "Spino",
-    "name": "Megafauna"
+    "version": "1.3.823"
   },
   {
     "author": "Spdskatr, CaesarV6",
     "name": "Damage Indicators [1.2]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "Articanical",
-    "name": "Extra Walls and Floors"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic"
-  },
-  {
-    "author": "Xazil",
-    "name": "Halflings of the Moot"
-  },
-  {
-    "author": "XeoNovaDan (original) & KiameV (current)",
-    "name": "[KV] Hand 'n' Footwear"
-  },
-  {
-    "author": "Kikohi",
-    "name": "Jewelry",
-    "steamId": "2020964421",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Velc",
-    "name": "MineItAll - unofficial"
-  },
-  {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
-  },
-  {
-    "author": "SickBoyWi",
-    "name": "Miraffe"
-  },
-  {
-    "author": "Sihv",
-    "name": "Rim of Madness - Bones",
-    "steamId": "1180573408",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nykot",
-    "name": "Sandy's RPG Style Inventory [1.2]",
-    "steamId": "2204419561",
-    "version": "1.0.0"
   },
   {
     "author": "Sarg",
@@ -340,113 +126,395 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Latki(vee)",
-    "name": "Vee's decorating"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
-  },
-  {
-    "author": "Latki(vee)",
-    "name": "Vee's decorating Abyss"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul"
-  },
-  {
-    "author": "Sihv",
-    "name": "Medieval Bones"
-  },
-  {
     "author": "(see description)",
     "name": "Extended Storage",
     "steamId": "",
     "version": "3.5.0.0"
   },
   {
-    "author": "Kompadt",
-    "name": "Dryadic for Zhthy'hl patch"
+    "author": "void",
+    "name": "Character Editor"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer:Freeguild"
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer: Zhthy'hl"
+    "author": "AliceTries, updated by Ogliss",
+    "name": "[WarHammer 40k] GeneSeed",
+    "steamId": "2017823407",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer: Skaven"
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Core Mod v2.10"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer: Gor"
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Factions Mod v2.1"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer: Fimir"
+    "author": "Haplo",
+    "name": "Misc. Robots"
   },
   {
-    "author": "KompadT",
-    "name": "Warhammer: Deathjacks"
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard ServoSkull Addon Mod v1.3"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer: Daemonettes"
+    "author": "Cpt. Ohu",
+    "name": "Corruption Core",
+    "steamId": "2137637809",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer: Daemonettes No guns patch"
+    "author": "Cpt. Ohu",
+    "name": "Corruption Psykers"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer\"ish\":Dryad"
+    "author": "Cpt. Ohu",
+    "name": "Corruption - Worship"
   },
   {
-    "author": "Articanical",
-    "name": "Better Walls and Floors"
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.1.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Magos Xenobiologis",
+    "steamId": "1541499916",
+    "version": "1.6.1.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Eldar)"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Orkoids)"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Tau, Kroot)"
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Advanced Mechanoid Warfare"
+  },
+  {
+    "author": "Shinzy",
+    "name": "Apparello 2"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Better Vanilla Masking"
+  },
+  {
+    "author": "PorqueNoLosDos",
+    "name": "Color Coded Mood Bar"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fill backstories",
+    "steamId": "2407610901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hokum",
+    "name": "Filthy Orc Invasion (Continued)"
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "H.C_AnimalReskins_Complete"
+  },
+  {
+    "author": "notfood",
+    "name": "Infused",
+    "steamId": "731287727",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Archaon",
+    "name": "Legiones Astartes: Primarch"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.4.0.0"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "Metal Doesn't Burn"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training"
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7528.166"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul (Continued)"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music"
   },
   {
     "author": "Hatti",
-    "name": "CleaningArea"
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
   },
   {
-    "author": "SickBoyWi",
-    "name": "Rimhammer - The End Times",
-    "steamId": "2007275942",
+    "author": "mastertea",
+    "name": "RandomPlus"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Jecrell",
+    "name": "RimQuest (Continued)",
+    "steamId": "2263331727",
+    "version": "1.2.6.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
     "version": "1.0.0.0"
   },
   {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - The End Times - Beastmen",
-    "steamId": "2020384947",
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms"
+  },
+  {
+    "author": "Albion",
+    "name": "Sparkling Worlds Addon - More Events - Standalone Addon",
+    "steamId": "1280211279",
+    "version": "2.4.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "SRTS Expanded retexture"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "XeoNovaDan, Netrve",
+    "name": "[XND] Turret Extensions",
+    "steamId": "",
+    "version": "1.3.2.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded"
+  },
+  {
+    "author": "Sarg Bjornson, Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
     "version": "1.0.0.0"
   },
   {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - The End Times - Dwarfs",
-    "steamId": "2016381892",
+    "author": "Neronix17",
+    "name": "[O21] Rimhammer 40K (Continued)",
+    "steamId": "2408117769",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "ZodGilla",
+    "name": "Vanilla Melee Retexture"
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warhammer 40k: Imperial Guard Badges"
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warhammer 40k: Space Marine Badges"
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warhammer 40k: Tau Empire Badges"
+  },
+  {
+    "author": "Itzal",
+    "name": "Weapon Reskin Pack"
+  },
+  {
+    "author": "Odeum",
+    "name": "World Map Beautification Project",
+    "steamId": "2314407956",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "MaxZiCode",
+    "name": "ZiTools objects seeker"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-Embrasures",
+    "steamId": "722085442",
     "version": "1.0.0.0"
   },
   {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - Any One Can Dwarf"
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - The End Times - Empire",
-    "steamId": "2374143623",
-    "version": "1.1.0.0"
+    "author": "Sam",
+    "name": "Glitter Tech"
   },
   {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - The End Times - Magic",
-    "steamId": "2020384442",
+    "author": "Telkir",
+    "name": "[T] MoreFloors"
+  },
+  {
+    "author": "NukaFrog",
+    "name": "BioReactor"
+  },
+  {
+    "author": "neronix17",
+    "name": "[O21] Clutter Structures",
+    "steamId": "2008681009",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.5.71"
+  },
+  {
+    "author": "KongMD",
+    "name": "Questionable Ethics Enhanced",
+    "steamId": "1787359789",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Rah",
+    "name": "Rah's Bionics and Surgery Expansion",
+    "steamId": "850429707",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AveryTheKitty and Erin",
+    "name": "Refined Floors"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "The Veno",
+    "name": "Space Marine Stuff"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core"
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warhammer 40k: Dark Eldar"
   }
 ]
