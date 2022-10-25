@@ -1,362 +1,714 @@
 {
   "tornado": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "tornados": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "clearweather": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "rain": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "vomitrain": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "foggyrain": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "rainythunderstorm": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "drythunderstorm": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "snowgentle": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "snowhard": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "fog": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "heatwave": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "flashstorm": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "coldsnap": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "solarflare": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "shortcircuit": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "toxicfallout": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "volcanicwinter": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "eclipse": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "aurora": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "blight": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "animaltame": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "wandererjoins": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "resourcepodcrash": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
-  },
-  "transportpodcrash": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "tradercaravan": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "orbitaltraderarrival": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "meteor": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "maninblack": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "madanimal": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "psychicdrone": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "psychicsoothe": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "ambrosiasprout": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "herdmigration": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "farmanimals": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "wildman": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "rarethrumbos": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "shipchunkdrop": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "travelergroup": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "visitorgroup": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "skillincrease": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "party": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "alphabeavers": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "shippartpoison": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "shippartpsychic": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "militaryaid": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "raid": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "dropraid": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "sapperraid": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "siegeraid": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "mechanoidraid": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "infestation": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "manhunterpack": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "predators": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "randomdisease": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "disease": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "reviveanypawn": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "pawn": {
-    "EventType": "PawnKind",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "levelskill": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "trait": {
-    "EventType": "Trait",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "removetrait": {
-    "EventType": "Trait",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "genderswap": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "item": {
-    "EventType": "Item",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "prisoner": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "visitcolony": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "randominspire": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "torytalkervote": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "hodlbotvote": {
-    "EventType": "Default",
-    "Mod": "Twitch Toolkit"
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit (Unofficial)"
   },
   "reviveall": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "reviveme": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "healall": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "healanypawn": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "healme": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "surgery": {
-    "EventType": "Item",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "passionshuffle": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "replacetrait": {
-    "EventType": "Trait",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "rescueme": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "fullheal": {
-    "EventType": "Variable",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "passion": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "removepassion": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "backpack": {
-    "EventType": "Item",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "settraits": {
-    "EventType": "Trait",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "cleartraits": {
-    "EventType": "Trait",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "use": {
-    "EventType": "Item",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "wear": {
-    "EventType": "Item",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "equip": {
-    "EventType": "Item",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "randomchildhood": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "randomadulthood": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "smite": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "sanctuary": {
-    "EventType": "Default",
+    "EventType": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   }
 }

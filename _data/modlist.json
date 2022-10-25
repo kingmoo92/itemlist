@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Author": "Andreas Pardeike",
+    "Name": "Harmony",
+    "SteamId": "2009463077",
+    "Version": "1.5.0.0"
+  },
+  {
+    "Author": "hodlhodl",
+    "Name": "ToolkitCore (Unofficial)",
+    "SteamId": "2018368654",
+    "Version": "1.0.0.0"
+  },
+  {
+    "Author": "hodlhodl",
+    "Name": "Twitch Toolkit (Unofficial)",
+    "SteamId": "1718525787",
+    "Version": "2.0.10.0"
+  },
+  {
+    "Author": "SirRandoo",
+    "Name": "ToolkitUtils",
+    "SteamId": "2009500580",
+    "Version": "6.3.0.0.biotech.B1"
+  },
+  {
+    "Author": "hodlhodl",
+    "Name": "TwitchToolkit - Lootboxes (Unofficial)",
+    "SteamId": "1720021578",
+    "Version": "1.0.0.0"
+  }
+]
