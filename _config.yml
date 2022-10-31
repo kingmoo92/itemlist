@@ -36,7 +36,7 @@ store:
     usage: true
   items:
     category: true
-    weight: true
+    weight: false
     karma: true
     quantity: true
     mod: true
@@ -47,7 +47,7 @@ store:
   animals:
     usage: true
     mod: true
-    weight: true
+    weight: false
     quantity: true
     karma: true
 
