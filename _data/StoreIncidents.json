@@ -11,11 +11,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -103,6 +98,11 @@
 	{
 		"abr": "tradercaravan",
 		"price": 275,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
