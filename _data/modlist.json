@@ -12,18 +12,6 @@
     "version": null
   },
   {
-    "author": "Tony Covered by Phonicmas (Original: Spencer7w)",
-    "name": "Adeptus Astartes (Space Marines 40k) Unofficial 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Phonicmas",
-    "name": "Adepta Sororitas (Sisters of Battle 40k) Unofficial 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "QuantumX",
     "name": "Astra Militarum Imperial Guard Core Mod v2.41",
     "steamId": null,
@@ -186,12 +174,6 @@
     "version": null
   },
   {
-    "author": "Phonicmas",
-    "name": "Chaos (Warhammer 40k) Unofficial 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -294,24 +276,6 @@
     "version": null
   },
   {
-    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
-    "name": "GrimWorld 40,000 - Hammer of the Imperium",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
-    "name": "Grimworld 40,000 - Angels of Death",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sparky",
-    "name": "Grimworld: Lasguns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
     "name": "Harvest Everything!",
     "steamId": null,
@@ -350,6 +314,312 @@
   {
     "author": "Pal 5k",
     "name": "Logistics_Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tony Covered by Phonicmas (Original: Spencer7w)",
+    "name": "Adeptus Astartes (Space Marines 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Adepta Sororitas (Sisters of Battle 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Chaos (Warhammer 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
+    "name": "GrimWorld 40,000 - Hammer of the Imperium",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
+    "name": "Grimworld 40,000 - Angels of Death",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sparky",
+    "name": "Grimworld: Lasguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nevelian",
+    "name": "Doors Expanded (Dev) ru",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas",
+    "name": "The Inquisition (Warhammer 40k) Unofficial 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Odz",
+    "name": "[1.4] Astra Militarum Regimentum - Krieg",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Odz",
+    "name": "[1.4] Ordo Tempestus - Tempestus Scions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Ideology",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Adeptus Astartes Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Black Templars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Blood Angels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Carcharodons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Chaos Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Chaos Cult",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Crimson Fists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Dark Angels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Death Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Emperors Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Fallen Angels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Imperial Fists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Iron Hands",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Minotaurs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Adepta Sororitas Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Order of Our Martyred Lady",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Order of the Bloody Rose",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Raven Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Salamanders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Necron Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Sautekh",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Space Wolves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Szarekhan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Genestealer Cult Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k The Hivecult",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Thousand Sons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Ultramarines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k White Scars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k World Eaters",
     "steamId": null,
     "version": null
   },
@@ -444,12 +714,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sk4p3g04t (Original Author: AOBA)",
     "name": "RimHammer40k - GreyKnights [PATCHED]",
     "steamId": null,
@@ -504,18 +768,6 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson, Chowder and Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist and Mlie",
     "name": "Simple FX: Smoke",
     "steamId": null,
@@ -542,12 +794,6 @@
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
   },
@@ -630,12 +876,6 @@
     "version": null
   },
   {
-    "author": "Phonicmas",
-    "name": "The Inquisition (Warhammer 40k) Unofficial 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sam",
     "name": "Tilled Soil",
     "steamId": null,
@@ -668,12 +908,6 @@
   {
     "author": "Nephlite and Maxim",
     "name": "Utility Columns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nevelian",
-    "name": "Doors Expanded (Dev) ru",
     "steamId": null,
     "version": null
   },
@@ -732,26 +966,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
     "version": null
   },
@@ -870,12 +1086,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and SmashPhil",
-    "name": "Vanilla Weapons Expanded - Makeshift",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
@@ -920,18 +1130,6 @@
   {
     "author": "Odz",
     "name": "[1.4] Astra Militarum Regimentum - Cadia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Odz",
-    "name": "[1.4] Astra Militarum Regimentum - Krieg",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Odz",
-    "name": "[1.4] Ordo Tempestus - Tempestus Scions",
     "steamId": null,
     "version": null
   },
