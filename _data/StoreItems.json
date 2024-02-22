@@ -6463,7 +6463,7 @@
 		"defname": "OGI_Gun_LasGun_Locke"
 	},
 	{
-		"abr": "mkiv"catachan"lascarbine(i)",
+		"abr": "mkivcatachanlascarbine(i)",
 		"price": 1850,
 		"category": "Ranged weapons",
 		"defname": "OGI_Gun_LasGun_Catachan"
@@ -12217,7 +12217,7 @@
 		"defname": "CnT_Tea"
 	},
 	{
-		"abr": ""organic"tea",
+		"abr": "organictea",
 		"price": 50,
 		"category": "Foods",
 		"defname": "CnT_OrganicTea"
@@ -20677,7 +20677,7 @@
 		"defname": "VCE_DeepFriedSushi"
 	},
 	{
-		"abr": "human"surimi"",
+		"abr": "humansurimi",
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCE_HumanSurimi"
@@ -35285,7 +35285,61 @@
 		"price": 642,
 		"category": "Misc",
 		"defname": "Zombgrella"
+	},
+	{
+		"abr": "backpack,corvus(cf)",
+		"price": 2050,
+		"category": "Imperium utility",
+		"defname": "EMSM_CF_PackPowerMkVI"
+	},
+	{
+		"abr": "backpack,devastator(cf)",
+		"price": 2050,
+		"category": "Imperium utility",
+		"defname": "EMSM_CF_PackPowerMkVIIDevastator"
+	},
+	{
+		"abr": "backpack,veteran(cf)",
+		"price": 2050,
+		"category": "Imperium utility",
+		"defname": "EMSM_CF_PackPowerMkVIVeteran"
+	},
+	{
+		"abr": "powerarmor,corvus(cf)",
+		"price": 33333,
+		"category": "Crimson Fists armor",
+		"defname": "EMSM_CF_CorvusArmor"
+	},
+	{
+		"abr": "powerarmor,corvus(cf)",
+		"price": 33333,
+		"category": "Crimson Fists armor",
+		"defname": "EMSM_CF_PowerArmorMkVI"
+	},
+	{
+		"abr": "powerarmor,corvus(cf)",
+		"price": 33333,
+		"category": "Crimson Fists armor",
+		"defname": "EMSM_CF_PowerArmorMkVIVeteran"
+	},
+	{
+		"abr": "powerhelmet,aquila(cf)",
+		"price": 5850,
+		"category": "Crimson Fists headgear",
+		"defname": "EMSM_CF_DevastatorHelmet"
+	},
+	{
+		"abr": "powerhelmet,corvus(cf)",
+		"price": 5850,
+		"category": "Crimson Fists headgear",
+		"defname": "EMSM_CF_CorvusHelmetVeteran"
+	},
+	{
+		"abr": "powerhelmet,sergeant(cf)",
+		"price": 5850,
+		"category": "Crimson Fists headgear",
+		"defname": "EMSM_CF_VeteranSergeantHelmet"
 	}
 	],
-	"total": 5881
+	"total": 5890
 }
