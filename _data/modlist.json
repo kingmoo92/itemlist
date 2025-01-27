@@ -295,12 +295,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Skylights",
     "steamId": "833899765",
     "version": "1.0.0.0"
@@ -339,7 +333,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.2+7e4b2ae5b0190a8d96d6ae9d5e09327bec3af132"
+    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
   },
   {
     "author": "themoistestwhale",
@@ -400,6 +394,24 @@
     "name": "GrimWorld 40,000 - Talons of the Emperor",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Core",
+    "steamId": "3025477432",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Genes",
+    "steamId": "3025485862",
+    "version": "1.0.0.0"
   },
   {
     "author": "Clashgore, Abomination, ThatHitmann, Tittymcswaggy, Samael and Con",
@@ -562,6 +574,12 @@
     "name": "SRTS Expanded",
     "steamId": "2878587061",
     "version": "1.4.7"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PeteTimesSix",
@@ -1194,14 +1212,50 @@
     "version": null
   },
   {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Factions",
+    "steamId": "3025493153",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Abhumans",
+    "steamId": "3122809100",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Cybernetics",
+    "steamId": "3106973016",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Ideology",
+    "steamId": "3046745982",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Insane Ruffles",
     "name": "Warhammer 40.000 - Imperium Weaponry: Grimworld Integration",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Phonicmas",
+    "name": "Warhammer 40.000 - Psycasts",
+    "steamId": "3025488644",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
     "steamId": null,
     "version": null
   },

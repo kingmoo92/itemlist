@@ -1622,7 +1622,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": 100,
+		"price": 107,
 		"category": "Animals",
 		"defname": "Duck"
 	},
@@ -4658,7 +4658,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -9950,7 +9950,7 @@
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": 1500,
 		"category": "Animals",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -10130,13 +10130,13 @@
 	},
 	{
 		"abr": "anchovy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
 	{
 		"abr": "ancientairconditioner",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientAirConditioner"
 	},
@@ -10160,7 +10160,7 @@
 	},
 	{
 		"abr": "ancientatm",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientATM"
 	},
@@ -10310,7 +10310,7 @@
 	},
 	{
 		"abr": "ancientengineblock",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRustedEngineBlock"
 	},
@@ -10322,7 +10322,7 @@
 	},
 	{
 		"abr": "ancientfence",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientFence"
 	},
@@ -10412,7 +10412,7 @@
 	},
 	{
 		"abr": "ancientgiantwheel",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGiantWheel"
 	},
@@ -10430,7 +10430,7 @@
 	},
 	{
 		"abr": "ancienthydrant",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientHydrant"
 	},
@@ -10448,7 +10448,7 @@
 	},
 	{
 		"abr": "ancientkitchensink",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientKitchenSink"
 	},
@@ -10466,7 +10466,7 @@
 	},
 	{
 		"abr": "ancientlargecrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLargeCrate"
 	},
@@ -10484,7 +10484,7 @@
 	},
 	{
 		"abr": "ancientlongcrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLongCrate"
 	},
@@ -10502,7 +10502,7 @@
 	},
 	{
 		"abr": "ancientmacro-engineblock",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLargeRustedEngineBlock"
 	},
@@ -10562,7 +10562,7 @@
 	},
 	{
 		"abr": "ancientmicrowave",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMicrowave"
 	},
@@ -10610,7 +10610,7 @@
 	},
 	{
 		"abr": "ancientoven",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientOven"
 	},
@@ -10628,7 +10628,7 @@
 	},
 	{
 		"abr": "ancientpostbox",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientPostbox"
 	},
@@ -10658,7 +10658,7 @@
 	},
 	{
 		"abr": "ancientrefrigerator",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRefrigerator"
 	},
@@ -10736,7 +10736,7 @@
 	},
 	{
 		"abr": "ancientshoppingcart",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientShoppingCart"
 	},
@@ -10802,7 +10802,7 @@
 	},
 	{
 		"abr": "ancientsmallcrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSmallCrate"
 	},
@@ -10832,7 +10832,7 @@
 	},
 	{
 		"abr": "ancientstove",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientStove"
 	},
@@ -10874,7 +10874,7 @@
 	},
 	{
 		"abr": "ancienttoilet",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientToilet"
 	},
@@ -10886,7 +10886,7 @@
 	},
 	{
 		"abr": "ancientvendingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientVendingMachine"
 	},
@@ -10904,7 +10904,7 @@
 	},
 	{
 		"abr": "ancientwashingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientWashingMachine"
 	},
@@ -10916,7 +10916,7 @@
 	},
 	{
 		"abr": "ancientwheel",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientWheel"
 	},
@@ -12842,7 +12842,7 @@
 	},
 	{
 		"abr": "chickpeas",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "VCE_RawChickpeas"
 	},
@@ -13814,19 +13814,19 @@
 	},
 	{
 		"abr": "fleshflies",
-		"price": 17,
+		"price": 1500,
 		"category": "Animals",
 		"defname": "GR_FleshFlies"
 	},
 	{
 		"abr": "fleshgrowth",
-		"price": 17,
+		"price": 1500,
 		"category": "Animals",
 		"defname": "GR_FleshGrowth"
 	},
 	{
 		"abr": "fleshmonstrosity",
-		"price": 17,
+		"price": 1565,
 		"category": "Animals",
 		"defname": "GR_FleshMonstrosity"
 	},
@@ -13934,7 +13934,7 @@
 	},
 	{
 		"abr": "fleshling",
-		"price": 17,
+		"price": 1500,
 		"category": "Animals",
 		"defname": "GR_Fleshling"
 	},
@@ -14474,7 +14474,7 @@
 	},
 	{
 		"abr": "guppy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
@@ -15278,7 +15278,7 @@
 	},
 	{
 		"abr": "invisiblefence",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFEArch_InvisibleFence"
 	},
@@ -16172,7 +16172,7 @@
 	},
 	{
 		"abr": "minnow",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
@@ -19514,7 +19514,7 @@
 	},
 	{
 		"abr": "snow",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "VCE_Snow"
 	},
@@ -19712,7 +19712,7 @@
 	},
 	{
 		"abr": "sprat",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSprat"
 	},
@@ -20204,7 +20204,7 @@
 	},
 	{
 		"abr": "advanceddroid",
-		"price": 2750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjSpacerDroid"
 	},
@@ -20216,7 +20216,7 @@
 	},
 	{
 		"abr": "android",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjAndroid"
 	},
@@ -20252,7 +20252,7 @@
 	},
 	{
 		"abr": "battledroid",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjBattleDroid"
 	},
@@ -20294,31 +20294,31 @@
 	},
 	{
 		"abr": "builder(ii)basestation",
-		"price": 2058,
+		"price": 2000,
 		"category": "Robots",
 		"defname": "RPP_RechargeStation_Builder_II"
 	},
 	{
 		"abr": "builder(iii)basestation",
-		"price": 4533,
+		"price": 4000,
 		"category": "Robots",
 		"defname": "RPP_RechargeStation_Builder_III"
 	},
 	{
 		"abr": "builder(iv)basestation",
-		"price": 9417,
+		"price": 8000,
 		"category": "Robots",
 		"defname": "RPP_RechargeStation_Builder_IV"
 	},
 	{
 		"abr": "builder(v)basestation",
-		"price": 19092,
+		"price": 10000,
 		"category": "Robots",
 		"defname": "RPP_RechargeStation_Builder_V"
 	},
 	{
 		"abr": "chef",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "NChefDrone"
 	},
@@ -20444,7 +20444,7 @@
 	},
 	{
 		"abr": "droid",
-		"price": 1417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjDroid"
 	},
@@ -20498,7 +20498,7 @@
 	},
 	{
 		"abr": "engineer",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "NEngiDrone"
 	},
@@ -20588,7 +20588,7 @@
 	},
 	{
 		"abr": "hauler(v)basestation",
-		"price": 19092,
+		"price": 10000,
 		"category": "Robots",
 		"defname": "AIRobot_RechargeStation_Hauler_V"
 	},
@@ -20678,7 +20678,7 @@
 	},
 	{
 		"abr": "kitchen(v)basestation",
-		"price": 19092,
+		"price": 10000,
 		"category": "Robots",
 		"defname": "RPP_RechargeStation_Kitchen_V"
 	},
@@ -20690,7 +20690,7 @@
 	},
 	{
 		"abr": "medic",
-		"price": 1100,
+		"price": -10,
 		"category": "Animal",
 		"defname": "NMedicDrone"
 	},
@@ -20726,7 +20726,7 @@
 	},
 	{
 		"abr": "omni(v)basestation",
-		"price": 19092,
+		"price": 10000,
 		"category": "Robots",
 		"defname": "RPP_RechargeStation_Omni_V"
 	},
@@ -21044,7 +21044,7 @@
 	},
 	{
 		"abr": "primarch",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GWPA_PrimarchRace"
 	},
@@ -21144,6 +21144,2790 @@
 		"category": "Bionic",
 		"defname": "SyntheticLung"
 	},
+	{
+		"abr": "syntheticnanoprinter",
+		"price": 1433,
+		"category": "Production",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "synthetictissue",
+		"price": 287,
+		"category": "Body restoration",
+		"defname": "SyntheticSkin"
+	},
+	{
+		"abr": "synthreadsynthesizer",
+		"price": 11592,
+		"category": "Production",
+		"defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "GW_IF_1x1c"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "Table_1x1c"
+	},
+	{
+		"abr": "table(2x1)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "GW_IF_2x1c"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "GW_IF_2x2c"
+	},
+	{
+		"abr": "table(2x4)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "GW_IF_2x4c"
+	},
+	{
+		"abr": "table(3x3)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "GW_IF_3x3c"
+	},
+	{
+		"abr": "tacklebox",
+		"price": 18,
+		"category": "Utility",
+		"defname": "VME_TackleBox"
+	},
+	{
+		"abr": "tacs",
+		"price": 1258,
+		"category": "Misc",
+		"defname": "RadarDish"
+	},
+	{
+		"abr": "tacticalbioniceye",
+		"price": 3300,
+		"category": "Ultratech",
+		"defname": "EPIA_TacticalBionicEye"
+	},
+	{
+		"abr": "tacticalcorneaimplant",
+		"price": 3217,
+		"category": "Ultratech",
+		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "tailorcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_TailorCabinet"
+	},
+	{
+		"abr": "tallarndesertgear",
+		"price": 425,
+		"category": "Armor",
+		"defname": "GW_AM_TDR_DesertGear"
+	},
+	{
+		"abr": "tallarndesertgoggles",
+		"price": 38,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_Goggles"
+	},
+	{
+		"abr": "tallarngoggledheadwrap",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_GogglesHeadwrap"
+	},
+	{
+		"abr": "tallarnheadwrap",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_Headwrap"
+	},
+	{
+		"abr": "tallarnofficerheadwrap",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_OfficerHeadwrap"
+	},
+	{
+		"abr": "tango",
+		"price": 7533,
+		"category": "Misc",
+		"defname": "VVE_Tango_Blueprint"
+	},
+	{
+		"abr": "tanithcloak",
+		"price": 293,
+		"category": "Apparel",
+		"defname": "GW_AM_Tanith1stCloak"
+	},
+	{
+		"abr": "tanithghilliesuit",
+		"price": 293,
+		"category": "Apparel",
+		"defname": "GW_AM_Tanith1stGhili"
+	},
+	{
+		"abr": "tanithhood",
+		"price": 608,
+		"category": "Headgear",
+		"defname": "GW_AM_Tanith1stHood"
+	},
+	{
+		"abr": "tanithmonocular",
+		"price": 1392,
+		"category": "Headgear",
+		"defname": "GW_AM_Tanith1stGoggle"
+	},
+	{
+		"abr": "tanithuniform",
+		"price": 293,
+		"category": "Apparel",
+		"defname": "GW_AM_Tanith1stArmor"
+	},
+	{
+		"abr": "tanktop",
+		"price": 107,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TankTop"
+	},
+	{
+		"abr": "tanktrap",
+		"price": 144,
+		"category": "Misc",
+		"defname": "VVE_TankTrap"
+	},
+	{
+		"abr": "tanktrapa",
+		"price": 88,
+		"category": "Misc",
+		"defname": "DefensiveTankTrapA"
+	},
+	{
+		"abr": "tanktrapb",
+		"price": 104,
+		"category": "Misc",
+		"defname": "DefensiveTankTrapB"
+	},
+	{
+		"abr": "tankeragripinaamkii",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_Agripinaamkiitanker"
+	},
+	{
+		"abr": "tankroach",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_Tankroach"
+	},
+	{
+		"abr": "tapir",
+		"price": 458,
+		"category": "Animals",
+		"defname": "AEXP_Tapir"
+	},
+	{
+		"abr": "tarantulabolterturret",
+		"price": 1975,
+		"category": "Security",
+		"defname": "GW_Building_TarantulaHeavyBolter"
+	},
+	{
+		"abr": "tarantulalascannonturret",
+		"price": 2600,
+		"category": "Security",
+		"defname": "GW_Building_TarantulaLascannon"
+	},
+	{
+		"abr": "targetingchip",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "taroroots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTaro"
+	},
+	{
+		"abr": "tasergoad",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "GF40K_MechanicusTaserGoad"
+	},
+	{
+		"abr": "tasergun",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Taser"
+	},
+	{
+		"abr": "tasmaniandevil",
+		"price": 750,
+		"category": "Animals",
+		"defname": "AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "tasmaniandevilmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "taurox",
+		"price": 42625,
+		"category": "Misc",
+		"defname": "GW_Taurox_blueprint"
+	},
+	{
+		"abr": "tea",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Tea"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "VBE_RawTea"
+	},
+	{
+		"abr": "teargasgrenadebelt",
+		"price": 458,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeTearGasBelt"
+	},
+	{
+		"abr": "teargasgrenades",
+		"price": 458,
+		"category": "Grenades",
+		"defname": "VWE_TearGasGrenade"
+	},
+	{
+		"abr": "teargaslauncher",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_TearGasLauncher"
+	},
+	{
+		"abr": "tech",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngine"
+	},
+	{
+		"abr": "techfriarcrown",
+		"price": 67,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_TechfriarCrown"
+	},
+	{
+		"abr": "techitediscstack",
+		"price": 558,
+		"category": "Misc",
+		"defname": "VFED_TechiteDiscStack"
+	},
+	{
+		"abr": "techprint(artificialmetabolism)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_ArtificialMetabolism"
+	},
+	{
+		"abr": "techprint(brainwiring)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_BrainWiring"
+	},
+	{
+		"abr": "techprint(cataphractarmor)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_CataphractArmor"
+	},
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_CircadianInfluence"
+	},
+	{
+		"abr": "techprint(compactweaponry)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_CompactWeaponry"
+	},
+	{
+		"abr": "techprint(fleshshaping)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_FleshShaping"
+	},
+	{
+		"abr": "techprint(healingfactors)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_HealingFactors"
+	},
+	{
+		"abr": "techprint(imperialdefenses)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_VFED_ImperialDefenses"
+	},
+	{
+		"abr": "techprint(imperialwarsolutions)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_VFED_ImperialWarSolutions"
+	},
+	{
+		"abr": "techprint(jumppacks)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_JumpPack"
+	},
+	{
+		"abr": "techprint(molecularanalysis)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_MolecularAnalysis"
+	},
+	{
+		"abr": "techprint(neuralcomputation)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_NeuralComputation"
+	},
+	{
+		"abr": "techprint(poisonsynthesis)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_VenomSynthesis"
+	},
+	{
+		"abr": "techprint(skinhardening)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_SkinHardening"
+	},
+	{
+		"abr": "techprint(specializedlimbs)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_SpecializedLimbs"
+	},
+	{
+		"abr": "techprinter",
+		"price": 4183,
+		"category": "Misc",
+		"defname": "VFED_Techprinter"
+	},
+	{
+		"abr": "temaki(lavish)",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_Temaki"
+	},
+	{
+		"abr": "tempestusscionberet",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IM_TempestusScion_Beret"
+	},
+	{
+		"abr": "tempestusscioncarapace",
+		"price": 858,
+		"category": "Armor",
+		"defname": "ODZ_40k_IM_TempestusScion_CarapaceArmor"
+	},
+	{
+		"abr": "tempestusscionfatigues",
+		"price": 310,
+		"category": "Apparel",
+		"defname": "ODZ_40k_IM_TempestusScion_Fatigues"
+	},
+	{
+		"abr": "tempestusscionhelmet",
+		"price": 558,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IM_TempestusScion_Helmet"
+	},
+	{
+		"abr": "templategenome",
+		"price": 667,
+		"category": "Genetic materials (tier 1)",
+		"defname": "GR_TemplateGenetic"
+	},
+	{
+		"abr": "tempobooster",
+		"price": 30,
+		"category": "Boosters",
+		"defname": "GR_BoosterTempo"
+	},
+	{
+		"abr": "temporarybandnode",
+		"price": 48,
+		"category": "Misc",
+		"defname": "AG_TemporaryBandNode"
+	},
+	{
+		"abr": "tendrilmoss",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VFEI2_Tendrilmoss"
+	},
+	{
+		"abr": "tent",
+		"price": 207,
+		"category": "Furniture",
+		"defname": "VFEC_Tent"
+	},
+	{
+		"abr": "tequila",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "VBE_Tequila"
+	},
+	{
+		"abr": "tequilabarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "VBE_TequilaBarrel"
+	},
+	{
+		"abr": "tequilamust",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_TequilaMust"
+	},
+	{
+		"abr": "teramantis",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Teramantis"
+	},
+	{
+		"abr": "teramantisthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Teramantis"
+	},
+	{
+		"abr": "terraformer",
+		"price": 96,
+		"category": "Misc",
+		"defname": "VFE_MechanoidTerraformer"
+	},
+	{
+		"abr": "teslacoil",
+		"price": 792,
+		"category": "Misc",
+		"defname": "PPCTeslaCoil"
+	},
+	{
+		"abr": "teslagun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_TeslaGun"
+	},
+	{
+		"abr": "textbook",
+		"price": 267,
+		"category": "Books",
+		"defname": "TextBook"
+	},
+	{
+		"abr": "textilerecycler",
+		"price": 2658,
+		"category": "Production",
+		"defname": "VFEM_WearablesAndTextileFactory_TextileRecycler"
+	},
+	{
+		"abr": "theatrestage",
+		"price": 983,
+		"category": "Misc",
+		"defname": "VFEC_TheatreStage"
+	},
+	{
+		"abr": "thermaebath",
+		"price": 908,
+		"category": "Misc",
+		"defname": "VFEC_Thermaebath"
+	},
+	{
+		"abr": "thermalwrapping",
+		"price": 62,
+		"category": "Apparel",
+		"defname": "ChJAndroidThermalBandages"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Misc",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "thickhybridwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "GR_ThickHybridWool"
+	},
+	{
+		"abr": "thinhybridwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "GR_ThinHybridWool"
+	},
+	{
+		"abr": "thorturbine",
+		"price": 2017,
+		"category": "Misc",
+		"defname": "Turbine"
+	},
+	{
+		"abr": "thornpod",
+		"price": 142,
+		"category": "Security",
+		"defname": "VFEI2_Thornpod"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 161,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "throwingshards",
+		"price": 88,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Shards"
+	},
+	{
+		"abr": "throwspikes",
+		"price": 41,
+		"category": "Ranged weapons",
+		"defname": "VFET_Throwspikes"
+	},
+	{
+		"abr": "thrumbalope",
+		"price": 5000,
+		"category": "Animals",
+		"defname": "GR_Thrumbalope"
+	},
+	{
+		"abr": "thrumbear",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GR_Thrumbear"
+	},
+	{
+		"abr": "thrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Thrumbo"
+	},
+	{
+		"abr": "thrumbocat",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "GR_Thrumbocat"
+	},
+	{
+		"abr": "thrumbochicken",
+		"price": 5000,
+		"category": "Animals",
+		"defname": "GR_Thrumbochicken"
+	},
+	{
+		"abr": "thrumbochickenegg(fert.)",
+		"price": 42,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ThrumbochickenEggFertilized"
+	},
+	{
+		"abr": "thrumbochickenegg(unfert.)",
+		"price": 42,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ThrumbochickenEggUnfertilized"
+	},
+	{
+		"abr": "thrumbolizard",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GR_Thrumbolizard"
+	},
+	{
+		"abr": "thrumboman",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "GR_Thrumboman"
+	},
+	{
+		"abr": "thrumborat",
+		"price": 4000,
+		"category": "Animals",
+		"defname": "GR_Thrumborat"
+	},
+	{
+		"abr": "thrumbospider",
+		"price": 4167,
+		"category": "Animals",
+		"defname": "GR_Thrumbospider"
+	},
+	{
+		"abr": "thrumdraeodon",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "GR_Thrumdraeodon"
+	},
+	{
+		"abr": "thrumffalo",
+		"price": 5833,
+		"category": "Animals",
+		"defname": "GR_Thrumffalo"
+	},
+	{
+		"abr": "thrumffalogouda",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_ThrumffaloGouda"
+	},
+	{
+		"abr": "thrumffalomilk",
+		"price": 10,
+		"category": "Animal products",
+		"defname": "GR_ThrumffaloMilk"
+	},
+	{
+		"abr": "thrumhorse",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GR_Thrumhorse"
+	},
+	{
+		"abr": "thrumwolf",
+		"price": 4167,
+		"category": "Animals",
+		"defname": "GR_Thrumwolf"
+	},
+	{
+		"abr": "thylacine",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "AEXP_Thylacine"
+	},
+	{
+		"abr": "thylacinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Thylacine"
+	},
+	{
+		"abr": "tidalgenerator",
+		"price": 1500,
+		"category": "Misc",
+		"defname": "VFE_TidalGenerator"
+	},
+	{
+		"abr": "tiger",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "AEXP_Tiger"
+	},
+	{
+		"abr": "tigerleather",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "AEXP_Leather_Tiger"
+	},
+	{
+		"abr": "tigermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Tiger"
+	},
+	{
+		"abr": "tilableartificialecosystem",
+		"price": 492,
+		"category": "Misc",
+		"defname": "VFE_Ecosystem_Tilable"
+	},
+	{
+		"abr": "tilablehydroponicsbasin",
+		"price": 137,
+		"category": "Misc",
+		"defname": "VFE_Hydroponics_Tilable"
+	},
+	{
+		"abr": "tilableplanterbox",
+		"price": 15,
+		"category": "Misc",
+		"defname": "VFE_PlanterBox_Tilable"
+	},
+	{
+		"abr": "tissuegrinder",
+		"price": 517,
+		"category": "Production",
+		"defname": "GR_TissueGrinder"
+	},
+	{
+		"abr": "titanis",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Titanis"
+	},
+	{
+		"abr": "titanisegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "EggTitanisFertilized"
+	},
+	{
+		"abr": "titanoboa",
+		"price": 4500,
+		"category": "Animals",
+		"defname": "Titanoboa"
+	},
+	{
+		"abr": "titanoboaegg(fert.)",
+		"price": 333,
+		"category": "Eggs (fert.)",
+		"defname": "EggTitanoboaFertilized"
+	},
+	{
+		"abr": "titantick",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Titantick"
+	},
+	{
+		"abr": "titantickthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Titantick"
+	},
+	{
+		"abr": "toad",
+		"price": 3958,
+		"category": "Misc",
+		"defname": "VVE_Toad_Blueprint"
+	},
+	{
+		"abr": "tobaccoleaves",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "VBE_RawTobacco"
+	},
+	{
+		"abr": "toga",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "VFEC_Toga"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "tomahawk",
+		"price": 210,
+		"category": "Ranged weapons",
+		"defname": "VFES_Tomahawk"
+	},
+	{
+		"abr": "tomatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTomatoes"
+	},
+	{
+		"abr": "tome",
+		"price": 417,
+		"category": "Books",
+		"defname": "Tome"
+	},
+	{
+		"abr": "toolbelt",
+		"price": 166,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ToolBelt"
+	},
+	{
+		"abr": "tools",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertTools"
+	},
+	{
+		"abr": "torchlamp",
+		"price": 41,
+		"category": "Misc",
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "tortoisemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "towelrail",
+		"price": 85,
+		"category": "Misc",
+		"defname": "RadiatorTowelRail"
+	},
+	{
+		"abr": "toxgrenadebelt",
+		"price": 525,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeToxicBelt"
+	},
+	{
+		"abr": "toxafox",
+		"price": 417,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxafox"
+	},
+	{
+		"abr": "toxalopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Toxalope"
+	},
+	{
+		"abr": "toxbear",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxbear"
+	},
+	{
+		"abr": "toxblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "VFEE_MeleeWeapon_Toxblade"
+	},
+	{
+		"abr": "toxicmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "VAEWaste_ToxicMeat"
+	},
+	{
+		"abr": "toxifiergenerator",
+		"price": 600,
+		"category": "Misc",
+		"defname": "ToxifierGenerator"
+	},
+	{
+		"abr": "toxiguana",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxiguana"
+	},
+	{
+		"abr": "toxiguanaegg(fert.)",
+		"price": 42,
+		"category": "Eggs (fert.)",
+		"defname": "VAEWaste_EggToxiguanaFertilized"
+	},
+	{
+		"abr": "toxlion",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxlion"
+	},
+	{
+		"abr": "toxscorpion",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VAEWaste_Toxscorpion"
+	},
+	{
+		"abr": "transonicblade",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "GF40K_MechanicusTransonicBlade"
+	},
+	{
+		"abr": "transonicrazor",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "GF40K_MechanicusTransonicRazor"
+	},
+	{
+		"abr": "transportpod",
+		"price": 253,
+		"category": "Misc",
+		"defname": "TransportPod"
+	},
+	{
+		"abr": "trash",
+		"price": 5,
+		"category": "Recycling packs",
+		"defname": "VRecyclingE_Trash"
+	},
+	{
+		"abr": "trashbrick",
+		"price": -10,
+		"category": "Stone blocks",
+		"defname": "VRecyclingE_TrashBrick"
+	},
+	{
+		"abr": "traveller",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "VVE_Traveller_Blueprint"
+	},
+	{
+		"abr": "trawler",
+		"price": 3167,
+		"category": "Misc",
+		"defname": "VVE_Trawler_Blueprint"
+	},
+	{
+		"abr": "trench",
+		"price": 36,
+		"category": "Misc",
+		"defname": "GW_Trenches"
+	},
+	{
+		"abr": "trench",
+		"price": 40,
+		"category": "Misc",
+		"defname": "VFES_Trench"
+	},
+	{
+		"abr": "trenchbarricade",
+		"price": 29,
+		"category": "Misc",
+		"defname": "TrenchBarricade"
+	},
+	{
+		"abr": "trenchshovel",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "GW_AM_MeleeWeapon_TrenchShovel"
+	},
+	{
+		"abr": "tribalaxe",
+		"price": 176,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_TribalAxe"
+	},
+	{
+		"abr": "tribalkilt",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalKilt"
+	},
+	{
+		"abr": "tribalponcho",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalPoncho"
+	},
+	{
+		"abr": "trooperarmor",
+		"price": 1917,
+		"category": "Armor",
+		"defname": "VAE_Apparel_TrooperArmor"
+	},
+	{
+		"abr": "trooperhelmet",
+		"price": 792,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrooperHelmet"
+	},
+	{
+		"abr": "trooperstorage",
+		"price": 96,
+		"category": "Misc",
+		"defname": "VFE_TrooperStorage"
+	},
+	{
+		"abr": "trousers",
+		"price": 164,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Trousers"
+	},
+	{
+		"abr": "trout",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTrout"
+	},
+	{
+		"abr": "tuna",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTuna"
+	},
+	{
+		"abr": "tunic",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Tunic"
+	},
+	{
+		"abr": "turbineblades",
+		"price": 2,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
+	},
+	{
+		"abr": "turkeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Turkey"
+	},
+	{
+		"abr": "turkeyman",
+		"price": 250,
+		"category": "Animals",
+		"defname": "GR_Turkeyman"
+	},
+	{
+		"abr": "turkeymanegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_TurkeymanEggFertilized"
+	},
+	{
+		"abr": "turkeymanegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_TurkeymanEggUnfertilized"
+	},
+	{
+		"abr": "turretpack",
+		"price": 392,
+		"category": "Utility",
+		"defname": "Apparel_PackTurret"
+	},
+	{
+		"abr": "twistedmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Twisted"
+	},
+	{
+		"abr": "typewritertable",
+		"price": 342,
+		"category": "Production",
+		"defname": "VBE_TypewritersTable"
+	},
+	{
+		"abr": "tyrian",
+		"price": 16,
+		"category": "Textiles",
+		"defname": "VFEC_Tyrian"
+	},
+	{
+		"abr": "tyrianfarm",
+		"price": 350,
+		"category": "Misc",
+		"defname": "VFEC_TyrianFarm"
+	},
+	{
+		"abr": "udar",
+		"price": 9875,
+		"category": "Misc",
+		"defname": "VVE_Udar_Blueprint"
+	},
+	{
+		"abr": "uintatherium",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Uintatherium"
+	},
+	{
+		"abr": "uintatheriummeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Uintatherium"
+	},
+	{
+		"abr": "ultimafabric",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "AG_Ultima"
+	},
+	{
+		"abr": "ultramarinecombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_Ultramarines-CombatShield"
+	},
+	{
+		"abr": "ultramarinegravisarmor",
+		"price": 24583,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_UM_GravisArmor"
+	},
+	{
+		"abr": "ultramarinegravishelmet",
+		"price": 11283,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_UM_GravisHelmet"
+	},
+	{
+		"abr": "ultramarinelieutenantmkxhelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_UM_MkXHelmet"
+	},
+	{
+		"abr": "ultramarinemkviiaquillaarmor",
+		"price": 15983,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_UM_MkVIIArmor"
+	},
+	{
+		"abr": "ultramarinemkviihelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_UM_MkVIIHelmet"
+	},
+	{
+		"abr": "ultramarinemkxhelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_UM_MkXHelmet"
+	},
+	{
+		"abr": "ultramarinemkxtacticusarmor",
+		"price": 15983,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_UM_MkXArmor"
+	},
+	{
+		"abr": "ultramarinesergeantmkxhelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_SG_UM_MkXHelmet"
+	},
+	{
+		"abr": "ultramarinestormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_Ultramarines-StormShield"
+	},
+	{
+		"abr": "ultrascreentelevision",
+		"price": 4100,
+		"category": "Recreation",
+		"defname": "UltrascreenTV"
+	},
+	{
+		"abr": "uncookedborscht",
+		"price": 161,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedBorscht"
+	},
+	{
+		"abr": "uncookedfinesoup",
+		"price": 227,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupFine"
+	},
+	{
+		"abr": "uncookedfinestew",
+		"price": 256,
+		"category": "Uncooked stew",
+		"defname": "VCE_UncookedStewFine"
+	},
+	{
+		"abr": "uncookedgourmetsoup",
+		"price": 742,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupGourmet"
+	},
+	{
+		"abr": "uncookedlavishsoup",
+		"price": 458,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupLavish"
+	},
+	{
+		"abr": "uncookedlavishstew",
+		"price": 508,
+		"category": "Uncooked stew",
+		"defname": "VCE_UncookedStewLavish"
+	},
+	{
+		"abr": "uncookedsimplesoup",
+		"price": 161,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupSimple"
+	},
+	{
+		"abr": "uncookedsimplestew",
+		"price": 182,
+		"category": "Uncooked stew",
+		"defname": "VCE_UncookedStewSimple"
+	},
+	{
+		"abr": "unfermentedcider",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_UnfermentedCider"
+	},
+	{
+		"abr": "uplinkmodule",
+		"price": 96,
+		"category": "Misc",
+		"defname": "VFE_MechanoidUplink"
+	},
+	{
+		"abr": "uprightpiano",
+		"price": 908,
+		"category": "Recreation",
+		"defname": "Joy_Piano"
+	},
+	{
+		"abr": "uramaki(fine)",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_Uramaki"
+	},
+	{
+		"abr": "uraniumpellets",
+		"price": 3,
+		"category": "Rimatomics Product",
+		"defname": "UraniumPellets"
+	},
+	{
+		"abr": "uraniumslugammobox",
+		"price": 608,
+		"category": "Misc",
+		"defname": "VFED_AmmoBox_UraniumSlug"
+	},
+	{
+		"abr": "uraniumslugrifle",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_UraniumSlugRifle"
+	},
+	{
+		"abr": "uraniumslugturret",
+		"price": 2408,
+		"category": "Misc",
+		"defname": "Turret_Sniper"
+	},
+	{
+		"abr": "ursinegenome",
+		"price": 17,
+		"category": "Genetic materials (tier 1)",
+		"defname": "GR_UrsineGenetic"
+	},
+	{
+		"abr": "ursineparagon",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "GR_ParagonBear"
+	},
+	{
+		"abr": "valhallanflakarmor",
+		"price": 367,
+		"category": "Armor",
+		"defname": "GW_AM_Valhallan_Armor"
+	},
+	{
+		"abr": "valhallangarrisoncap",
+		"price": 158,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_GarrisonCap"
+	},
+	{
+		"abr": "valhallangreatcoat",
+		"price": 291,
+		"category": "Apparel",
+		"defname": "GW_AM_Valhallan_GreatCoat"
+	},
+	{
+		"abr": "valhallanofficergreatcoat",
+		"price": 367,
+		"category": "Apparel",
+		"defname": "GW_AM_Valhallan_OfficerGreatCoat"
+	},
+	{
+		"abr": "valhallanofficerushanka",
+		"price": 143,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_OfficerUshanka"
+	},
+	{
+		"abr": "valhallanushanka",
+		"price": 141,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_Ushanka"
+	},
+	{
+		"abr": "valkyrie",
+		"price": 38317,
+		"category": "Misc",
+		"defname": "Valkyriebuild"
+	},
+	{
+		"abr": "vaultdoor",
+		"price": 240,
+		"category": "Misc",
+		"defname": "VFEA_VaultDoor"
+	},
+	{
+		"abr": "vaultwall",
+		"price": 48,
+		"category": "Misc",
+		"defname": "VFEA_VaultWall"
+	},
+	{
+		"abr": "vaultsword",
+		"price": 40792,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_Vaultsword"
+	},
+	{
+		"abr": "vegetablemilkextractor",
+		"price": 296,
+		"category": "Production",
+		"defname": "VCE_VegMilkExtractor"
+	},
+	{
+		"abr": "vehiclecannon",
+		"price": 667,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleCannon"
+	},
+	{
+		"abr": "vehicleengine",
+		"price": 833,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleEngine"
+	},
+	{
+		"abr": "vehicleexhaust",
+		"price": 167,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleExhaust"
+	},
+	{
+		"abr": "vehiclesideturret",
+		"price": 500,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleSideTurret"
+	},
+	{
+		"abr": "vehiclesuspension",
+		"price": 183,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleSuspension"
+	},
+	{
+		"abr": "vehicletracks",
+		"price": 333,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleTracks"
+	},
+	{
+		"abr": "vehiclewheel",
+		"price": 150,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleWheel"
+	},
+	{
+		"abr": "venatarimask",
+		"price": 34975,
+		"category": "Headgear",
+		"defname": "GW_TotE_VenatariHelmet"
+	},
+	{
+		"abr": "venison",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "venomite",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_Venomite"
+	},
+	{
+		"abr": "vent",
+		"price": 97,
+		"category": "Misc",
+		"defname": "Vent"
+	},
+	{
+		"abr": "versatileassembler",
+		"price": 7908,
+		"category": "Production",
+		"defname": "VFEM_VersatileAssembler"
+	},
+	{
+		"abr": "verybigshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "vest",
+		"price": 183,
+		"category": "Apparel",
+		"defname": "Apparel_Vest"
+	},
+	{
+		"abr": "virusreplicator",
+		"price": 508,
+		"category": "Production",
+		"defname": "USH_VirusReplicator"
+	},
+	{
+		"abr": "vitalscentre",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
+		"abr": "vodka",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Vodka"
+	},
+	{
+		"abr": "vodkadrum",
+		"price": 82,
+		"category": "Production",
+		"defname": "VBE_VodkaDrum"
+	},
+	{
+		"abr": "vodkamash",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_VodkaMash"
+	},
+	{
+		"abr": "voidsculpture",
+		"price": 206,
+		"category": "Art",
+		"defname": "VoidSculpture"
+	},
+	{
+		"abr": "voidsightserum",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VoidsightSerum"
+	},
+	{
+		"abr": "volcanicpistol",
+		"price": 350,
+		"category": "Ranged weapons",
+		"defname": "VWEFT_Gun_VolcanicPistol"
+	},
+	{
+		"abr": "volkiteblaster",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SS_VolkBlast"
+	},
+	{
+		"abr": "volkitecaliver",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SS_VolkCaliver"
+	},
+	{
+		"abr": "volkiteculverin",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SS_VolkCulverin"
+	},
+	{
+		"abr": "volkiteserpenta",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SM_VolkSerpenta"
+	},
+	{
+		"abr": "vossmki",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_VossPattern"
+	},
+	{
+		"abr": "vosspatternlauncher(emp)",
+		"price": 4650,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_EMPLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(frag)",
+		"price": 4125,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_FragLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(smoke)",
+		"price": 4125,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_SmokeLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(stun)",
+		"price": 4400,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_StunLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(tox)",
+		"price": 4525,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_ToxLauncher"
+	},
+	{
+		"abr": "vostroyanfirstbornheadgear",
+		"price": 179,
+		"category": "Headgear",
+		"defname": "GW_AM_VostoyanFirstbornHeadgear"
+	},
+	{
+		"abr": "vostroyanfirstbornuniform",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "GW_AM_VostoyanFirstborn_Uniform"
+	},
+	{
+		"abr": "voxbackpack",
+		"price": 1600,
+		"category": "Misc",
+		"defname": "GW_AM_VoxBackpack"
+	},
+	{
+		"abr": "wagon",
+		"price": 3958,
+		"category": "Misc",
+		"defname": "VVE_Wagon_Blueprint"
+	},
+	{
+		"abr": "wake-uppowder",
+		"price": 100,
+		"category": "Condiments",
+		"defname": "VBE_WakeUpPowder"
+	},
+	{
+		"abr": "wake-upribimplant",
+		"price": 1017,
+		"category": "Bionic",
+		"defname": "WakeUpRib"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Misc",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "wall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "Wall"
+	},
+	{
+		"abr": "wall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "GW_Wall"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "wallheater",
+		"price": 251,
+		"category": "Misc",
+		"defname": "VTE_WallHeater"
+	},
+	{
+		"abr": "walllamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "WallLamp"
+	},
+	{
+		"abr": "walllamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GW_IF_WallLamp"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "walltorchlamp",
+		"price": 31,
+		"category": "Misc",
+		"defname": "TorchWallLamp"
+	},
+	{
+		"abr": "wall-mountedacunit",
+		"price": 425,
+		"category": "Misc",
+		"defname": "VTE_ACUnitWall"
+	},
+	{
+		"abr": "wall-mountedcooler",
+		"price": 392,
+		"category": "Misc",
+		"defname": "VTE_WallMountedCooler"
+	},
+	{
+		"abr": "wall-mountedheater",
+		"price": 185,
+		"category": "Misc",
+		"defname": "VTE_WallMountedHeater"
+	},
+	{
+		"abr": "wall-mountedvent",
+		"price": 64,
+		"category": "Misc",
+		"defname": "VTE_WallMountedVent"
+	},
+	{
+		"abr": "wallpaper",
+		"price": 18,
+		"category": "Misc",
+		"defname": "VFE_Wallpaper"
+	},
+	{
+		"abr": "walrus",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AEXP_Walrus"
+	},
+	{
+		"abr": "walrusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gomphotaria"
+	},
+	{
+		"abr": "walrustusk",
+		"price": 133,
+		"category": "Items",
+		"defname": "AEXP_WalrusTusk"
+	},
+	{
+		"abr": "wartribalwear",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFET_Apparel_TribalWar"
+	},
+	{
+		"abr": "warbird",
+		"price": 4825,
+		"category": "Misc",
+		"defname": "VVE_Warbird_Blueprint"
+	},
+	{
+		"abr": "warbolter",
+		"price": 4450,
+		"category": "Ranged weapons",
+		"defname": "VWEB_Warbolter"
+	},
+	{
+		"abr": "warbolter",
+		"price": 4450,
+		"category": "Misc",
+		"defname": "VFEP_Box_Warbolter"
+	},
+	{
+		"abr": "warcasketautorifle",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_Autorifle"
+	},
+	{
+		"abr": "warcasketautorifle",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Autorifle"
+	},
+	{
+		"abr": "warcasketbroadsword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_Broadsword"
+	},
+	{
+		"abr": "warcasketbroadsword",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_Broadsword"
+	},
+	{
+		"abr": "warcasketchargeblaster",
+		"price": 3667,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChargeBlaster"
+	},
+	{
+		"abr": "warcasketchargeblaster",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_ChargeBlaster"
+	},
+	{
+		"abr": "warcasketchargelance",
+		"price": 3750,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChargeLance"
+	},
+	{
+		"abr": "warcasketchargelance",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_ChargeLance"
+	},
+	{
+		"abr": "warcasketcombatknife",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "VFEP_Box_CombatKnife"
+	},
+	{
+		"abr": "warcasketcombatknife",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "warcasketfoldinggun",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_FoldingGun"
+	},
+	{
+		"abr": "warcasketfoldinggun",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_FoldingGun"
+	},
+	{
+		"abr": "warcasketfoundry",
+		"price": 1042,
+		"category": "Misc",
+		"defname": "VFEP_WarcasketFoundry"
+	},
+	{
+		"abr": "warcasketgravityhammer",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "VFEP_Box_GravityHammer"
+	},
+	{
+		"abr": "warcasketgravityhammer",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_GravityHammer"
+	},
+	{
+		"abr": "warcasketgrenadelauncher",
+		"price": 3150,
+		"category": "Misc",
+		"defname": "VFEP_Box_GrenadeLauncher"
+	},
+	{
+		"abr": "warcasketgrenadelauncher",
+		"price": 3150,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_GrenadeLauncher"
+	},
+	{
+		"abr": "warcaskethandheldcannon",
+		"price": 2250,
+		"category": "Misc",
+		"defname": "VFEP_Box_HandheldCannon"
+	},
+	{
+		"abr": "warcaskethandheldcannon",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HandheldCannon"
+	},
+	{
+		"abr": "warcasketheavyflamer",
+		"price": 4083,
+		"category": "Misc",
+		"defname": "VFEP_Box_HeavyFlamer"
+	},
+	{
+		"abr": "warcasketheavyflamer",
+		"price": 4083,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HeavyFlamer"
+	},
+	{
+		"abr": "warcasketlaserblaster",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_LaserBlaster"
+	},
+	{
+		"abr": "warcasketminigun",
+		"price": 3733,
+		"category": "Misc",
+		"defname": "VFEP_Box_Minigun"
+	},
+	{
+		"abr": "warcasketminigun",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Minigun"
+	},
+	{
+		"abr": "warcasketplasmasword",
+		"price": 6000,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword"
+	},
+	{
+		"abr": "warcasketrailgun",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Railgun"
+	},
+	{
+		"abr": "warcasketrailgun",
+		"price": 5333,
+		"category": "Misc",
+		"defname": "VFEP_Box_Railgun"
+	},
+	{
+		"abr": "warcasketsalvagedlasereradicator",
+		"price": 6833,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_SalvagedLaserEradicator"
+	},
+	{
+		"abr": "warcasketsalvagedlasereradicator",
+		"price": 6833,
+		"category": "Misc",
+		"defname": "VFEP_Box_SalvagedLaserEradicator"
+	},
+	{
+		"abr": "warcasketslugthrower",
+		"price": 1833,
+		"category": "Misc",
+		"defname": "VFEP_Box_Slugthrower"
+	},
+	{
+		"abr": "warcasketslugthrower",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Slugthrower"
+	},
+	{
+		"abr": "warcasketteargasgrenadelauncher",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher"
+	},
+	{
+		"abr": "warcasketteargasgrenadelauncher",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_TearGasGrenadeLauncher"
+	},
+	{
+		"abr": "warcasketuraniumslugrifle",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_UraniumSlugRifle"
+	},
+	{
+		"abr": "warcasketuraniumslugrifle",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_UraniumSlugRifle"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 285,
+		"category": "Furniture",
+		"defname": "Table_Wardrobe"
+	},
+	{
+		"abr": "wardroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChjSpacerBattleDroid"
+	},
+	{
+		"abr": "wardroidassemblykit",
+		"price": 5667,
+		"category": "Items",
+		"defname": "NWardroidKit"
+	},
+	{
+		"abr": "wargmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Warg"
+	},
+	{
+		"abr": "warhammertable",
+		"price": 533,
+		"category": "Furniture",
+		"defname": "GW_WarhammerTable"
+	},
+	{
+		"abr": "warmhat",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "VCE_Apparel_WarmHat"
+	},
+	{
+		"abr": "warmjacket",
+		"price": 525,
+		"category": "Misc",
+		"defname": "VCE_Apparel_WarmJacket"
+	},
+	{
+		"abr": "wasabi",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWasabi"
+	},
+	{
+		"abr": "wasabipaste",
+		"price": 5,
+		"category": "Condiments",
+		"defname": "VCE_WasabiPaste"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "wastecrate",
+		"price": 100,
+		"category": "Furniture",
+		"defname": "VRecyclingE_WasteCrate"
+	},
+	{
+		"abr": "wasteratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WasteRat"
+	},
+	{
+		"abr": "wasteboar",
+		"price": 333,
+		"category": "Animals",
+		"defname": "VAEWaste_Wasteboar"
+	},
+	{
+		"abr": "wastedeer",
+		"price": 417,
+		"category": "Animals",
+		"defname": "VAEWaste_Wastedeer"
+	},
+	{
+		"abr": "wasteffalo",
+		"price": 750,
+		"category": "Animals",
+		"defname": "VAEWaste_Wasteffalo"
+	},
+	{
+		"abr": "wasteleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "VAEWaste_ToxicLeather"
+	},
+	{
+		"abr": "wastepackatomizer",
+		"price": 4067,
+		"category": "Misc",
+		"defname": "WastepackAtomizer"
+	},
+	{
+		"abr": "watcher'saxe",
+		"price": 154367,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_WatchersAxe"
+	},
+	{
+		"abr": "watcher'saxe(ranged)",
+		"price": 3408,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_WatchersAxeR"
+	},
+	{
+		"abr": "waterchestnuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWaterChestnut"
+	},
+	{
+		"abr": "watercooling",
+		"price": 2025,
+		"category": "Misc",
+		"defname": "CoolingWater"
+	},
+	{
+		"abr": "watermain",
+		"price": 1267,
+		"category": "Misc",
+		"defname": "VFED_WaterMain"
+	},
+	{
+		"abr": "watertower",
+		"price": 258,
+		"category": "Misc",
+		"defname": "WaterTowerS"
+	},
+	{
+		"abr": "watertreatment",
+		"price": 1075,
+		"category": "Misc",
+		"defname": "WaterTreatment"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "waterwell",
+		"price": 248,
+		"category": "Misc",
+		"defname": "WaterWellInlet"
+	},
+	{
+		"abr": "watercressleaves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWatercress"
+	},
+	{
+		"abr": "watermillgenerator",
+		"price": 1000,
+		"category": "Misc",
+		"defname": "WatermillGenerator"
+	},
+	{
+		"abr": "waterproofconduit",
+		"price": 32,
+		"category": "Misc",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "weaponrack",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "weaponsresearchbench",
+		"price": 1217,
+		"category": "Misc",
+		"defname": "WeaponsBench"
+	},
+	{
+		"abr": "weirdcheese",
+		"price": 13,
+		"category": "Meals",
+		"defname": "VCE_WeirdCheese"
+	},
+	{
+		"abr": "weirdmilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_WeirdMilk"
+	},
+	{
+		"abr": "welshterrier",
+		"price": 417,
+		"category": "Animals",
+		"defname": "AEXP_WelshTerrier"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "whiskey",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "VBE_Whiskey"
+	},
+	{
+		"abr": "whiskeycask",
+		"price": 725,
+		"category": "Production",
+		"defname": "VBE_WhiskeyCask"
+	},
+	{
+		"abr": "whiskeymash",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_WhiskeyMash"
+	},
+	{
+		"abr": "whitescarcombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_WhiteScars-CombatShield"
+	},
+	{
+		"abr": "whitescargravisarmor",
+		"price": 24583,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_WS_GravisArmor"
+	},
+	{
+		"abr": "whitescargravishelmet",
+		"price": 11283,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_WS_GravisHelmet"
+	},
+	{
+		"abr": "whitescarlieutenantmkxhelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_WS_MkXHelmet"
+	},
+	{
+		"abr": "whitescarmkviiaquillaarmor",
+		"price": 15983,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_WS_MkVIIArmor"
+	},
+	{
+		"abr": "whitescarmkviihelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_WS_MkVIIHelmet"
+	},
+	{
+		"abr": "whitescarmkxhelmet",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_WS_MkXHelmet"
+	},
+	{
+		"abr": "whitescarstormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_WhiteScars-StormShield"
+	},
+	{
+		"abr": "whitescarsmkxtacticusarmor",
+		"price": 15983,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_WS_MkXArmor"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "widehat",
+		"price": 126,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_WideHat"
+	},
+	{
+		"abr": "wildgoose",
+		"price": 125,
+		"category": "Animals",
+		"defname": "AEXP_WildGoose"
+	},
+	{
+		"abr": "wildgooseegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggWildGooseFertilized"
+	},
+	{
+		"abr": "wildgooseegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AEXP_EggWildGooseUnfertilized"
+	},
+	{
+		"abr": "wildebeest",
+		"price": 567,
+		"category": "Animals",
+		"defname": "AEXP_Wildebeest"
+	},
+	{
+		"abr": "wildebeestpelt",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "AEXP_Leather_Wildebeest"
+	},
+	{
+		"abr": "windpump",
+		"price": 358,
+		"category": "Misc",
+		"defname": "WindPump"
+	},
+	{
+		"abr": "windturbine",
+		"price": 442,
+		"category": "Misc",
+		"defname": "WindTurbine"
+	},
+	{
+		"abr": "windmill",
+		"price": 323,
+		"category": "Misc",
+		"defname": "Windmill"
+	},
+	{
+		"abr": "wisent",
+		"price": 7000,
+		"category": "Misc",
+		"defname": "VVE_Wisent_Blueprint"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolf_Timber"
+	},
+	{
+		"abr": "wolfpelt",
+		"price": 158,
+		"category": "Raw resources",
+		"defname": "GR_WolfPelt"
+	},
+	{
+		"abr": "wolfrug",
+		"price": 161,
+		"category": "Furniture",
+		"defname": "GR_WolfRug"
+	},
+	{
+		"abr": "wolfalope",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfalope"
+	},
+	{
+		"abr": "wolfbear",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfbear"
+	},
+	{
+		"abr": "wolfbeaver",
+		"price": 458,
+		"category": "Animals",
+		"defname": "GR_Wolfbeaver"
+	},
+	{
+		"abr": "wolfcat",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfcat"
+	},
+	{
+		"abr": "wolfchicken",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfchicken"
+	},
+	{
+		"abr": "wolfchickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_WolfchickenEggFertilized"
+	},
+	{
+		"abr": "wolfchickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_WolfchickenEggUnfertilized"
+	},
+	{
+		"abr": "wolffalo",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolffalo"
+	},
+	{
+		"abr": "wolfhorse",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "GR_Wolfhorse"
+	},
+	{
+		"abr": "wolfscarab",
+		"price": 667,
+		"category": "Animals",
+		"defname": "GR_Wolfscarab"
+	},
+	{
+		"abr": "wolfsnake",
+		"price": 750,
+		"category": "Animals",
+		"defname": "GR_Wolfsnake"
+	},
+	{
+		"abr": "woodenarmor",
+		"price": 286,
+		"category": "Armor",
+		"defname": "VAE_Apparel_WoodenArmor"
+	},
+	{
+		"abr": "woodentoy",
+		"price": 108,
+		"category": "Misc",
+		"defname": "VCE_Toy_Wooden"
+	},
+	{
+		"abr": "wood-firedcrematorium",
+		"price": 525,
+		"category": "Misc",
+		"defname": "VFEC_WoodFiredCrematorium"
+	},
+	{
+		"abr": "wood-firedgenerator",
+		"price": 442,
+		"category": "Misc",
+		"defname": "WoodFiredGenerator"
+	},
+	{
+		"abr": "woollymammoth",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WoollyMammoth"
+	},
+	{
+		"abr": "woolywolf",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "GR_WoolyWolf"
+	},
+	{
+		"abr": "woundinfectionantiserum",
+		"price": 229,
+		"category": "Drugs",
+		"defname": "USH_InfectionAntiserum"
+	},
+	{
+		"abr": "woundinfectionbacteriapathogen",
+		"price": 3,
+		"category": "Pathogens",
+		"defname": "USH_InfectionPathogen"
+	},
+	{
+		"abr": "woundinfectionbacteriasample",
+		"price": 33,
+		"category": "Disaese samples",
+		"defname": "USH_InfectionSample"
+	},
+	{
+		"abr": "woundinfectionvaccine",
+		"price": 201,
+		"category": "Drugs",
+		"defname": "USH_InfectionVaccine"
+	},
+	{
+		"abr": "wreath",
+		"price": 215,
+		"category": "Headgear",
+		"defname": "VFEC_Wreath"
+	},
+	{
+		"abr": "writerstable",
+		"price": 252,
+		"category": "Production",
+		"defname": "VBE_WritersTable"
+	},
+	{
+		"abr": "xanidespherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreXanides"
+	},
+	{
+		"abr": "xenogenefier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_Xenogenefier"
+	},
+	{
+		"abr": "xenophaseblade",
+		"price": 16667,
+		"category": "Melee weapons",
+		"defname": "GW_SS_Phaseblade"
+	},
+	{
+		"abr": "xenotypeinjector",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_XenotypeInjector"
+	},
+	{
+		"abr": "xenotypenullifier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_XenotypeNullifier"
+	},
+	{
+		"abr": "yakbeef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yak"
+	},
+	{
+		"abr": "yellowbellpeppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawYellowBellPeppers"
+	},
+	{
+		"abr": "yorkshireterriermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "yuenyeung",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Yuenyeung"
+	},
+	{
+		"abr": "zaronamkii",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "Gun_Zarona"
+	},
+	{
+		"abr": "zebra",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "AEXP_Zebra"
+	},
+	{
+		"abr": "zeuscannon",
+		"price": 9267,
+		"category": "Misc",
+		"defname": "VFED_ZeusCannon"
+	},
+	{
+		"abr": "zeuscannoncapacitorbank",
+		"price": 3175,
+		"category": "Misc",
+		"defname": "VFED_ZeusCannonCapacitorBank"
+	},
+	{
+		"abr": "zeuscannoncontrolstation",
+		"price": 4617,
+		"category": "Misc",
+		"defname": "VFED_ZeusCannonControlStation"
+	},
+	{
+		"abr": "zeusturbine",
+		"price": 6075,
+		"category": "Misc",
+		"defname": "BigTurbine"
+	},
+	{
+		"abr": "zygolophodon",
+		"price": 3167,
+		"category": "Animals",
+		"defname": "Zygolophodon"
+	},
+	{
+		"abr": "zygolophodontusk",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ZygolophodonTusk"
+	},
+	{
+		"abr": "adornedbloodyskull",
+		"price": 250,
+		"category": "Ritual Items",
+		"defname": "BEWH_KhorneItem"
+	},
+	{
+		"abr": "ancientgrimoire",
+		"price": 833,
+		"category": "Ritual Items",
+		"defname": "BEWH_TzeentchItem"
+	},
+	{
+		"abr": "androidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ChjAndroid"
+	},
+	{
+		"abr": "automatedgenetor",
+		"price": 3533,
+		"category": "Misc",
+		"defname": "BEWH_GeneseedGenetor"
+	},
+	{
+		"abr": "blackblood",
+		"price": 5000,
+		"category": "Cybernetics",
+		"defname": "BEWH_BlackBlood"
+	},
+	{
+		"abr": "blankpotentialenhancer",
+		"price": 3533,
+		"category": "Misc",
+		"defname": "BEWH_BlankPotentialEnhancer"
+	},
+	{
+		"abr": "capturedblankpotential",
+		"price": 1667,
+		"category": "Ritual Items",
+		"defname": "BEWH_PariahItem"
+	},
+	{
+		"abr": "capturedpsychicpotential",
+		"price": 1667,
+		"category": "Ritual Items",
+		"defname": "BEWH_PsykerItem"
+	},
+	{
+		"abr": "cybermantle",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_MechanicusAssimilation"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticArm"
+	},
+	{
+		"abr": "cyberneticear",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticEar"
+	},
+	{
+		"abr": "cyberneticeye",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticEye"
+	},
+	{
+		"abr": "cyberneticheart",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticHeart"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticJaw"
+	},
+	{
+		"abr": "cybernetickidney",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticKidney"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLeg"
+	},
+	{
+		"abr": "cyberneticliver",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLiver"
+	},
+	{
+		"abr": "cyberneticlung",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLung"
+	},
+	{
+		"abr": "cyberneticspine",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticSpine"
+	},
+	{
+		"abr": "cyberneticstomach",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticStomach"
+	},
+	{
+		"abr": "daemonetteclaw",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_DaemonetteClaw"
+	},
+	{
+		"abr": "daggeroftzeentch",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_PinkHorrorDagger"
+	},
+	{
+		"abr": "dendriteblade",
+		"price": 1833,
+		"category": "Cybernetics",
+		"defname": "BEWH_DendriteBlade"
+	},
+	{
+		"abr": "diseasefilledbrew",
+		"price": 625,
+		"category": "Ritual Items",
+		"defname": "BEWH_NurgleItem"
+	},
+	{
+		"abr": "embeddedauspex",
+		"price": 3333,
+		"category": "Cybernetics",
+		"defname": "BEWH_EmbeddedAuspex"
+	},
+	{
+		"abr": "ferriclureimplant",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_FerricLureImplant"
+	},
+	{
+		"abr": "geneseedcapsule",
+		"price": 22500,
+		"category": "Manufactured",
+		"defname": "BEWH_GeneseedCapsules"
+	},
+	{
+		"abr": "hellblade",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_Hellblade"
+	},
+	{
+		"abr": "imperiumpowerarmor",
+		"price": 8250,
+		"category": "Armor",
+		"defname": "BEWH_ImperiumPowerArmor"
+	},
+	{
+		"abr": "imperiumpowerhelmet",
+		"price": 1650,
+		"category": "Headgear",
+		"defname": "BEWH_ImperiumPowerArmorHelmet"
+	},
+	{
+		"abr": "imperiumprimarispowerhelmet",
+		"price": 1650,
+		"category": "Headgear",
+		"defname": "BEWH_ImperiumPrimarisPowerArmorHelmet"
+	},
+	{
+		"abr": "interfaceport",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_InterfacePort"
+	},
+	{
+		"abr": "internalresevoir",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_InternalResevoir"
+	},
+	{
+		"abr": "khornepowerarmor",
+		"price": 8250,
+		"category": "Armor",
+		"defname": "BEWH_KhornePowerArmor"
+	},
+	{
+		"abr": "khornepowerhelmet",
+		"price": 1650,
+		"category": "Headgear",
+		"defname": "BEWH_KhornePowerArmorHelmet"
+	},
+	{
+		"abr": "maglevcoils",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_MaglevCoils"
+	},
+	{
+		"abr": "manipulatormechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_ManipulatorMechadendrite"
+	},
+	{
+		"abr": "mechadendriteneuralsystem",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_MechadendriteNeuralSystem"
+	},
+	{
+		"abr": "medicae/torturemechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_MedicaeTortureMechadendrite"
+	},
 	],
-	"total": 3949
+	"total": 4239
 }
