@@ -23437,24 +23437,6 @@
 		"defname": "EMIG_ArbitratorFatigue"
 	},
 	{
-		"abr": "'ard'at(ok)",
-		"price": 575,
-		"category": "Armored",
-		"defname": "EMOK_FlakElmet"
-	},
-	{
-		"abr": "'ard'at,dakka(ok)",
-		"price": 575,
-		"category": "Armored",
-		"defname": "EMOK_FlakElmet_Dakka"
-	},
-	{
-		"abr": "'ard'at,skull(ok)",
-		"price": 575,
-		"category": "Armored",
-		"defname": "EMOK_FlakElmet_Skull"
-	},
-	{
 		"abr": "assaultbolter(aa)",
 		"price": 3150,
 		"category": "Adeptus astartes ranged weapons",
@@ -23749,18 +23731,6 @@
 		"defname": "EMWH_Barrage"
 	},
 	{
-		"abr": "beastsnaggaklaw(ok)",
-		"price": 5250,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_BeastSnaggaKlaw"
-	},
-	{
-		"abr": "beastchoppa(ok)",
-		"price": 2600,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_Beastchoppa"
-	},
-	{
 		"abr": "belt,chaplain(aa)",
 		"price": 942,
 		"category": "Armored",
@@ -23771,18 +23741,6 @@
 		"price": 942,
 		"category": "Armored",
 		"defname": "EMSM_AA_TechmarineBelt"
-	},
-	{
-		"abr": "bigchoppa(ok)",
-		"price": 2150,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_BigChoppa"
-	},
-	{
-		"abr": "bigshoota(ok)",
-		"price": 3150,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_BigShoota"
 	},
 	{
 		"abr": "blackbonebracing(handimplant)",
@@ -23911,12 +23869,6 @@
 		"defname": "EMIG_Bolter"
 	},
 	{
-		"abr": "breacharam(ok)",
-		"price": 2842,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_BreachaRam"
-	},
-	{
 		"abr": "buddhistslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -23929,28 +23881,10 @@
 		"defname": "AM_BuddhistSlab_Medium"
 	},
 	{
-		"abr": "burna(ok)",
-		"price": 3192,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_Burna"
-	},
-	{
 		"abr": "burnscourrain",
 		"price": 75,
 		"category": "Drugs",
 		"defname": "EMWH_BurnscourRain"
-	},
-	{
-		"abr": "canoptekscarabswarm",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronCanoptekScarabSwarmVanillaRace"
-	},
-	{
-		"abr": "canoptekspyder",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronCanoptekSpyderVanillaRace"
 	},
 	{
 		"abr": "carapacearmor,munitorumservitor(dm)",
@@ -24307,12 +24241,6 @@
 		"defname": "EMCM_CM_PowerArmorChestRigMk4Std"
 	},
 	{
-		"abr": "choppa(ok)",
-		"price": 992,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_Choppa"
-	},
-	{
 		"abr": "christianslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -24539,12 +24467,6 @@
 		"price": 9333,
 		"category": "Archotech",
 		"defname": "EMWH_ConstructerInterface"
-	},
-	{
-		"abr": "convergenceofdominion",
-		"price": 2000267,
-		"category": "Misc",
-		"defname": "EMNC_ConvergenceofDominion"
 	},
 	{
 		"abr": "corpserumvat",
@@ -24925,12 +24847,6 @@
 		"defname": "EMCH_LongLas"
 	},
 	{
-		"abr": "dathumpgun(ok)",
-		"price": 950,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_ThumpGun"
-	},
-	{
 		"abr": "daemonblade(cm)",
 		"price": 2192,
 		"category": "Chaos melee weapons",
@@ -24997,12 +24913,6 @@
 		"defname": "GW_DG_Armor"
 	},
 	{
-		"abr": "deathmark",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronDeathmarkVanillaRace"
-	},
-	{
 		"abr": "deathwatchshotgun(dw)",
 		"price": 1008,
 		"category": "Deathwatch ranged weapons",
@@ -25013,12 +24923,6 @@
 		"price": 136,
 		"category": "Misc",
 		"defname": "AM_GrayStatueDecorative"
-	},
-	{
-		"abr": "deffgun(ok)",
-		"price": 12183,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_Deffgun"
 	},
 	{
 		"abr": "deluvialtincture",
@@ -25079,12 +24983,6 @@
 		"price": 14,
 		"category": "Misc",
 		"defname": "FTC_FloorDecoC_D"
-	},
-	{
-		"abr": "dispersionshield",
-		"price": 166742,
-		"category": "Armored",
-		"defname": "EMNC_DispersionShield"
 	},
 	{
 		"abr": "displaycabinet",
@@ -25159,12 +25057,6 @@
 		"defname": "EMSM_DNStormBolter"
 	},
 	{
-		"abr": "drilla(ok)",
-		"price": 1550,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_Drilla"
-	},
-	{
 		"abr": "dryas",
 		"price": 208,
 		"category": "Drugs",
@@ -25187,60 +25079,6 @@
 		"price": 4117,
 		"category": "Misc",
 		"defname": "FTC_SignalDecoy"
-	},
-	{
-		"abr": "'elmetbig'orn(ok)",
-		"price": 717,
-		"category": "Headgear eye accessory",
-		"defname": "EMOK_FlakElmet_BigOrnEast"
-	},
-	{
-		"abr": "'elmetbig'orn(ok)",
-		"price": 717,
-		"category": "Headgear right-side accessory",
-		"defname": "EMOK_FlakElmet_BigOrnWest"
-	},
-	{
-		"abr": "'elmet'ead'orn(ok)",
-		"price": 186,
-		"category": "Headgear top accessory",
-		"defname": "EMOK_FlakElmet_EadOrn"
-	},
-	{
-		"abr": "'elmetleftauger,black(ok)",
-		"price": 508,
-		"category": "Headgear left-side accessory",
-		"defname": "EMOK_FlakElmet_EyeLeftBlack"
-	},
-	{
-		"abr": "'elmetleftauger,red(ok)",
-		"price": 508,
-		"category": "Headgear left-side accessory",
-		"defname": "EMOK_FlakElmet_EyeLeftRed"
-	},
-	{
-		"abr": "'elmetleftauger,yellow(ok)",
-		"price": 508,
-		"category": "Headgear left-side accessory",
-		"defname": "EMOK_FlakElmet_EyeLeftYellow"
-	},
-	{
-		"abr": "'elmetrightauger,black(ok)",
-		"price": 508,
-		"category": "Headgear left-side accessory",
-		"defname": "EMOK_FlakElmet_EyeRightBlack"
-	},
-	{
-		"abr": "'elmetrightauger,red(ok)",
-		"price": 508,
-		"category": "Headgear left-side accessory",
-		"defname": "EMOK_FlakElmet_EyeRightRed"
-	},
-	{
-		"abr": "'elmetrightauger,yellow(ok)",
-		"price": 508,
-		"category": "Headgear left-side accessory",
-		"defname": "EMOK_FlakElmet_EyeRightYellow"
 	},
 	{
 		"abr": "enegrysignaldecoy",
@@ -25279,24 +25117,6 @@
 		"defname": "EMIG_EnginseerFatigue"
 	},
 	{
-		"abr": "enmiticannihilator(n)",
-		"price": 417000,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_EnmiticAnnihilator"
-	},
-	{
-		"abr": "enmiticdisintegratorpistol(n)",
-		"price": 416875,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_EnmiticDisintegratorPistol"
-	},
-	{
-		"abr": "enmiticexterminator(n)",
-		"price": 625358,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_EnmiticExterminator"
-	},
-	{
 		"abr": "exaltedflamermeat",
 		"price": 1,
 		"category": "Meat",
@@ -25325,24 +25145,6 @@
 		"price": 31,
 		"category": "Misc",
 		"defname": "FT_Stony_Palisade"
-	},
-	{
-		"abr": "eyecover,black(ok)",
-		"price": 725,
-		"category": "Eyes",
-		"defname": "EMOK_FlakElmet_EyeGlassBlack"
-	},
-	{
-		"abr": "eyecover,red(ok)",
-		"price": 725,
-		"category": "Eyes",
-		"defname": "EMOK_FlakElmet_EyeGlassRed"
-	},
-	{
-		"abr": "eyecover,yellow(ok)",
-		"price": 725,
-		"category": "Eyes",
-		"defname": "EMOK_FlakElmet_EyeGlassYellow"
 	},
 	{
 		"abr": "eyeling",
@@ -25381,12 +25183,6 @@
 		"defname": "EMIG_Fatigue_Kasrkin"
 	},
 	{
-		"abr": "feedermandibles(n)",
-		"price": 16817,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_CanoptekScarabSwarm_FeederMandibles"
-	},
-	{
 		"abr": "fenrisianwolf",
 		"price": 10833,
 		"category": "Animals",
@@ -25397,12 +25193,6 @@
 		"price": 3858,
 		"category": "Armored",
 		"defname": "GW_SM_FibroVest"
-	},
-	{
-		"abr": "field'at(ok)",
-		"price": 408,
-		"category": "Headgear",
-		"defname": "EMOK_FieldAt"
 	},
 	{
 		"abr": "fieldcannon",
@@ -25627,18 +25417,6 @@
 		"defname": "FTC_Wall_Flame"
 	},
 	{
-		"abr": "flayedone",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronFlayedOneVanillaRace"
-	},
-	{
-		"abr": "flensingclaw(n)",
-		"price": 167000,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_FlensingClaw"
-	},
-	{
 		"abr": "fleshslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -25711,36 +25489,6 @@
 		"defname": "EMAM_NecromechanicTurret_Gamma"
 	},
 	{
-		"abr": "gaussblaster(n)",
-		"price": 83575,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_GaussBlaster"
-	},
-	{
-		"abr": "gausscannon(n)",
-		"price": 667042,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_GaussCannon"
-	},
-	{
-		"abr": "gaussdestructor(n)",
-		"price": 708725,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_GaussDestructor"
-	},
-	{
-		"abr": "gaussflayer(n)",
-		"price": 41875,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_GaussFlayer"
-	},
-	{
-		"abr": "gaussreaper(n)",
-		"price": 62767,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_GaussReaper"
-	},
-	{
 		"abr": "geist",
 		"price": 16667,
 		"category": "Drugs",
@@ -25754,7 +25502,7 @@
 	},
 	{
 		"abr": "genestealerpatriarch",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "EMGC_PatriarchVanillaRace"
 	},
@@ -25973,18 +25721,6 @@
 		"price": 517,
 		"category": "Misc",
 		"defname": "AM_GrogDispenser"
-	},
-	{
-		"abr": "grot",
-		"price": 500,
-		"category": "Animal",
-		"defname": "EMOK_GrotVanillaRace"
-	},
-	{
-		"abr": "grotblasta(ok)",
-		"price": 2083,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_GrotBlasta"
 	},
 	{
 		"abr": "hammerfallbunker(heavybolterarray)",
@@ -26671,12 +26407,6 @@
 		"defname": "FT_TurretHexMortar"
 	},
 	{
-		"abr": "hexmarkdestroyer",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_HexmarkDestroyerVanillaRace"
-	},
-	{
 		"abr": "hinduslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -26821,36 +26551,6 @@
 		"defname": "EMWH_Hyperexia"
 	},
 	{
-		"abr": "hyperphaseharvester(n)",
-		"price": 168075,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_HyperphaseHarvester"
-	},
-	{
-		"abr": "hyperphasereap-blade(n)",
-		"price": 168075,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_HyperphaseReapblade"
-	},
-	{
-		"abr": "hyperphasesword(n)",
-		"price": 167050,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_HyperphaseSword"
-	},
-	{
-		"abr": "hyperphasethreshers(n)",
-		"price": 167458,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_HyperphaseThreshers"
-	},
-	{
-		"abr": "immortal",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronImmortalVanillaRace"
-	},
-	{
 		"abr": "imperialpsythrone",
 		"price": 15233,
 		"category": "Furniture",
@@ -26941,12 +26641,6 @@
 		"defname": "AM_IslamicSlab_Medium"
 	},
 	{
-		"abr": "jacket(ok)",
-		"price": 293,
-		"category": "Outer",
-		"defname": "EMOK_Jacket"
-	},
-	{
 		"abr": "jainslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -27017,60 +26711,6 @@
 		"price": 342,
 		"category": "Furniture",
 		"defname": "AM_KemeticSlab_Medium"
-	},
-	{
-		"abr": "killsaw(ok)",
-		"price": 2558,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_Killsaw"
-	},
-	{
-		"abr": "kombatbelt(ok)",
-		"price": 154,
-		"category": "Middle accessory",
-		"defname": "EMOK_KombatBelt"
-	},
-	{
-		"abr": "kombatpants,boyz(ok)",
-		"price": 270,
-		"category": "Skin",
-		"defname": "EMOK_KombatPants"
-	},
-	{
-		"abr": "kombatsuit(ok)",
-		"price": 517,
-		"category": "Skin",
-		"defname": "EMOK_KombatSuit"
-	},
-	{
-		"abr": "kombi-burna(ok)",
-		"price": 4417,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_KombiBurna"
-	},
-	{
-		"abr": "kombi-rokkit(ok)",
-		"price": 4492,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_KombiRokkit"
-	},
-	{
-		"abr": "kustomgrotblasta(ok)",
-		"price": 2650,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_KustomGrotBlasta"
-	},
-	{
-		"abr": "kustommega-slugga(ok)",
-		"price": 4683,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_KustomMegaSlugga"
-	},
-	{
-		"abr": "kustomshoota(ok)",
-		"price": 3442,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_KustomShoota"
 	},
 	{
 		"abr": "largecrate",
@@ -27229,24 +26869,6 @@
 		"defname": "FTC_FloorDecoB"
 	},
 	{
-		"abr": "lokhustdestroyer",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronLokhustDestroyerVanillaRace"
-	},
-	{
-		"abr": "lokhustheavydestroyer",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronLokhustHeavyDestroyerVanillaRace"
-	},
-	{
-		"abr": "lokhustlord",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronLokhustLordVanillaRace"
-	},
-	{
 		"abr": "longlas(ig)",
 		"price": 708,
 		"category": "Astra militarum ranged weapons",
@@ -27269,12 +26891,6 @@
 		"price": 3783,
 		"category": "Archotech",
 		"defname": "EMWH_LuminenCapacitors"
-	},
-	{
-		"abr": "lychguard",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronLychguardVanillaRace"
 	},
 	{
 		"abr": "machinegunturret",
@@ -27541,12 +27157,6 @@
 		"defname": "EMWH_MindImpulseUnit"
 	},
 	{
-		"abr": "mindshacklescarab",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_MindshackleScarabVanillaRace"
-	},
-	{
 		"abr": "mininglaser(gc)",
 		"price": 14208,
 		"category": "Genestealer cult ranged weapons",
@@ -27703,28 +27313,10 @@
 		"defname": "EMNC_Necrodermis"
 	},
 	{
-		"abr": "necronlord",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronLordVanillaRace"
-	},
-	{
-		"abr": "necronoverlord",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronOverLordVanillaRace"
-	},
-	{
 		"abr": "necronsmelter",
 		"price": 717,
 		"category": "Production",
 		"defname": "EMNC_NecronSmelter"
-	},
-	{
-		"abr": "necronwarrior",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronWarriorVanillaRace"
 	},
 	{
 		"abr": "neo-volkitepistol(aa)",
@@ -27847,66 +27439,6 @@
 		"defname": "BEWH_OpticalMechadendrite"
 	},
 	{
-		"abr": "orkboyz",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "EMOK_OrkBoyzVanillaRace"
-	},
-	{
-		"abr": "orkleather",
-		"price": 9,
-		"category": "Leathers",
-		"defname": "Leather_EMOK_Ork"
-	},
-	{
-		"abr": "orkmek",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "EMOK_OrkMekVanillaRace"
-	},
-	{
-		"abr": "orkpainboy",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "EMOK_OrkPainboyVanillaRace"
-	},
-	{
-		"abr": "orkruntherd",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "EMOK_OrkRuntherdVanillaRace"
-	},
-	{
-		"abr": "orkwarboss",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "EMOK_OrkWarbossVanillaRace"
-	},
-	{
-		"abr": "orkweirdboy",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "EMOK_OrkWeirdboyVanillaRace"
-	},
-	{
-		"abr": "orkoidmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_EMOK_Orkoid"
-	},
-	{
-		"abr": "orkoidspore",
-		"price": 12,
-		"category": "Eggs (fert.)",
-		"defname": "EMOK_Spore"
-	},
-	{
-		"abr": "overlord'sblade(n)",
-		"price": 167517,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_HyperphaseGlaive"
-	},
-	{
 		"abr": "packedconcrete",
 		"price": 83,
 		"category": "Manufactured",
@@ -27929,18 +27461,6 @@
 		"price": 250,
 		"category": "Drugs",
 		"defname": "EMWH_Panimmune"
-	},
-	{
-		"abr": "particlebeamer(n)",
-		"price": 125250,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_ParticleBeamer"
-	},
-	{
-		"abr": "particlecaster(n)",
-		"price": 500183,
-		"category": "Necron ranged weapons",
-		"defname": "EMNC_ParticleCaster"
 	},
 	{
 		"abr": "phobosbackpack",
@@ -28073,30 +27593,6 @@
 		"price": 3508,
 		"category": "Astra militarum ranged weapons",
 		"defname": "EMIG_PlasmaPistol"
-	},
-	{
-		"abr": "plasmancer",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "EMNC_NecronPlasmancerVanillaRace"
-	},
-	{
-		"abr": "plasmiclance(n)",
-		"price": 167758,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_PlasmicLance"
-	},
-	{
-		"abr": "pole,dakka(ok)",
-		"price": 658,
-		"category": "Backpack",
-		"defname": "EMOK_Pole_Dakka"
-	},
-	{
-		"abr": "pole,skull(ok)",
-		"price": 658,
-		"category": "Backpack",
-		"defname": "EMOK_Pole_Skull"
 	},
 	{
 		"abr": "powerarmorinnerframe(im)",
@@ -28711,28 +28207,10 @@
 		"defname": "EMSM_AA_PowerHelmetMk7TechmarineC"
 	},
 	{
-		"abr": "powerklaw(ok)",
-		"price": 3892,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_PowerKlaw"
-	},
-	{
-		"abr": "powerklaw(ok)",
-		"price": 4575,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_PowerKlawPainboy"
-	},
-	{
 		"abr": "powerpick(gc)",
 		"price": 1783,
 		"category": "Genestealer cult melee weapons",
 		"defname": "EMGC_PowerPick"
-	},
-	{
-		"abr": "powersnappa(ok)",
-		"price": 3533,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_PowerSnappa"
 	},
 	{
 		"abr": "powersword(aa)",
@@ -28928,7 +28406,7 @@
 	},
 	{
 		"abr": "purestraingenestealer",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "EMGC_PurestrainGenestealerVanillaRace"
 	},
@@ -29003,18 +28481,6 @@
 		"price": 333,
 		"category": "Skin",
 		"defname": "GW_AM_RatlingShirt"
-	},
-	{
-		"abr": "raworkoidfungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "EMOK_RawOrkoidFungus"
-	},
-	{
-		"abr": "reanimationprotocol",
-		"price": 2500,
-		"category": "Items",
-		"defname": "EMNC_NecronProtocol_ReanimationProtocol"
 	},
 	{
 		"abr": "reaperautocannon",
@@ -29209,24 +28675,6 @@
 		"defname": "EMIM_ECRobe_MinistorumPriest"
 	},
 	{
-		"abr": "rodofcovenant(n)",
-		"price": 167758,
-		"category": "Necron melee weapons",
-		"defname": "EMNC_RodofCovenant"
-	},
-	{
-		"abr": "rokkitlauncha(ok)",
-		"price": 1750,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_RokkitLauncha"
-	},
-	{
-		"abr": "rokkitpistol(ok)",
-		"price": 1442,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_RokkitPistol"
-	},
-	{
 		"abr": "rondel,powerarmor(aa)",
 		"price": 1017,
 		"category": "Armored",
@@ -29255,12 +28703,6 @@
 		"price": 8333,
 		"category": "Archotech",
 		"defname": "EMSM_GeneSeed_Fragment_Rubicon"
-	},
-	{
-		"abr": "runtherdtool(ok)",
-		"price": 358,
-		"category": "Orks melee weapons",
-		"defname": "EMOK_RuntherdTool"
 	},
 	{
 		"abr": "sandstone",
@@ -29309,18 +28751,6 @@
 		"price": 250,
 		"category": "Books",
 		"defname": "EMWH_Schematic_GC"
-	},
-	{
-		"abr": "schematic(necron)",
-		"price": 250,
-		"category": "Books",
-		"defname": "EMWH_Schematic_NC"
-	},
-	{
-		"abr": "schematic(orkz)",
-		"price": 250,
-		"category": "Books",
-		"defname": "EMWH_Schematic_OK"
 	},
 	{
 		"abr": "scoutarmor",
@@ -29441,12 +28871,6 @@
 		"price": 892,
 		"category": "Utility",
 		"defname": "EMWH_MagazinePouch_Mortar"
-	},
-	{
-		"abr": "shoota(ok)",
-		"price": 2425,
-		"category": "Orks ranged weapons",
-		"defname": "EMOK_Shoota"
 	},
 	{
 		"abr": "shotgun(ig)",
@@ -29585,7 +29009,697 @@
 		"price": 78,
 		"category": "Shoulder heraldry left",
 		"defname": "EMSM_AA_Mk3ShoulderPadLibrarianWest"
+	},
+	{
+		"abr": "adjustableshelf",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_BasicShelf"
+	},
+	{
+		"abr": "autofabricator(advanced)",
+		"price": 2917,
+		"category": "Misc",
+		"defname": "EccentricFurniture_AutofabricatorAdvanced"
+	},
+	{
+		"abr": "autofabricator(basic)",
+		"price": 1758,
+		"category": "Misc",
+		"defname": "EccentricFurniture_AutofabricatorBasic"
+	},
+	{
+		"abr": "ceilinglamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_CeilingLamp1x1b"
+	},
+	{
+		"abr": "chandelier(1x1)",
+		"price": 325,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_Chandelier1x1b"
+	},
+	{
+		"abr": "chandelier(2x2)",
+		"price": 325,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_Chandelier2x2b"
+	},
+	{
+		"abr": "endtable",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_EndTable"
+	},
+	{
+		"abr": "endtable(illuminated)",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_EndTableIlluminated"
+	},
+	{
+		"abr": "nanorepairfuel",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "EccentricFurniture_NanoRepairFuel"
+	},
+	{
+		"abr": "refrigerator(single)",
+		"price": 144,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_Refrigerator"
+	},
+	{
+		"abr": "repaircabinet",
+		"price": 400,
+		"category": "Misc",
+		"defname": "EccentricFurniture_RepairCabinet"
+	},
+	{
+		"abr": "repairshelf",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_RepairShelf"
+	},
+	{
+		"abr": "shoulderpad,librarian(l)",
+		"price": 78,
+		"category": "Shoulder heraldry left",
+		"defname": "EMSM_AA_Mk4ShoulderPadLibrarianWest"
+	},
+	{
+		"abr": "shoulderpad,librarian(r)",
+		"price": 78,
+		"category": "Shoulder heraldry right",
+		"defname": "EMSM_AA_Mk3ShoulderPadLibrarianEast"
+	},
+	{
+		"abr": "shoulderpad,librarian(r)",
+		"price": 78,
+		"category": "Shoulder heraldry right",
+		"defname": "EMSM_AA_Mk4ShoulderPadLibrarianEast"
+	},
+	{
+		"abr": "shoulderpad,maximus(aa)",
+		"price": 675,
+		"category": "Shoulder pad",
+		"defname": "EMSM_AA_Mk4ShoulderPad"
+	},
+	{
+		"abr": "shoulderpad,tartaros(aa)",
+		"price": 675,
+		"category": "Shoulder",
+		"defname": "EMSM_AA_TerminatorShoulderTartaros"
+	},
+	{
+		"abr": "shoulderpad,techmarine(aa)",
+		"price": 675,
+		"category": "Shoulder pad",
+		"defname": "EMSM_AA_TechmarineShoulderPad"
+	},
+	{
+		"abr": "shoulderpad,techmarine(l)",
+		"price": 78,
+		"category": "Shoulder heraldry left",
+		"defname": "EMSM_AA_Mk3ShoulderPadTechmarineWest"
+	},
+	{
+		"abr": "shoulderpad,techmarine(r)",
+		"price": 78,
+		"category": "Shoulder heraldry right",
+		"defname": "EMSM_AA_Mk3ShoulderPadTechmarineEast"
+	},
+	{
+		"abr": "shoulderpad,warpsmith(l)",
+		"price": 78,
+		"category": "Shoulder heraldry left",
+		"defname": "EMCM_CM_ShoulderPadWarpsmithAWest"
+	},
+	{
+		"abr": "shoulderpad,warpsmith(r)",
+		"price": 78,
+		"category": "Shoulder heraldry right",
+		"defname": "EMCM_CM_ShoulderPadWarpsmithAEast"
+	},
+	{
+		"abr": "shoulderstuds,mk5(l)",
+		"price": 78,
+		"category": "Shoulder heraldry left",
+		"defname": "EMSM_AA_ShoulderPadMk5B"
+	},
+	{
+		"abr": "shoulderstuds,mk5(r)",
+		"price": 78,
+		"category": "Shoulder heraldry right",
+		"defname": "EMSM_AA_ShoulderPadMk5A"
+	},
+	{
+		"abr": "sikhslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_SikhSlab_Broad"
+	},
+	{
+		"abr": "sikhslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_SikhSlab_Medium"
+	},
+	{
+		"abr": "silveranathema",
+		"price": 153,
+		"category": "Drugs",
+		"defname": "EMWH_SilverAnathema"
+	},
+	{
+		"abr": "sinewarmature(armimplant)",
+		"price": 3783,
+		"category": "Archotech",
+		"defname": "EMWH_SinewArmature"
+	},
+	{
+		"abr": "siskash",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "EMWH_SiskAsh"
+	},
+	{
+		"abr": "skinningblade(tg)",
+		"price": 850,
+		"category": "Chaos melee weapons",
+		"defname": "EMCH_Skinningblade"
+	},
+	{
+		"abr": "skyburialspot",
+		"price": 143,
+		"category": "Misc",
+		"defname": "AM_SkyBurialSpot"
+	},
+	{
+		"abr": "slaaneshpowerarmor",
+		"price": 8250,
+		"category": "Armored",
+		"defname": "BEWH_SlaaneshPowerArmor"
+	},
+	{
+		"abr": "slaaneshpowerhelmet",
+		"price": 1650,
+		"category": "Armored",
+		"defname": "BEWH_SlaaneshPowerArmorHelmet"
+	},
+	{
+		"abr": "slam",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "EMWH_Slam"
+	},
+	{
+		"abr": "slaught",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "EMWH_Slaught"
+	},
+	{
+		"abr": "smallcrate",
+		"price": 108,
+		"category": "Storage",
+		"defname": "sbz_SmallCrate"
+	},
+	{
+		"abr": "smalldisplayshelf",
+		"price": 41,
+		"category": "Storage",
+		"defname": "sbz_SmallDisplayShelf"
+	},
+	{
+		"abr": "smartbed",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_BedSingle"
+	},
+	{
+		"abr": "smartchair",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_SmartChair"
+	},
+	{
+		"abr": "smartdoublebed",
+		"price": 800,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_BedDouble"
+	},
+	{
+		"abr": "smarttable(1x2)",
+		"price": 210,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_SmartTable1x2c"
+	},
+	{
+		"abr": "smarttable(2x2)",
+		"price": 367,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_SmartTable2x2c"
+	},
+	{
+		"abr": "smarttable(2x4)",
+		"price": 708,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_SmartTable2x4c"
+	},
+	{
+		"abr": "smarttable(3x3)",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_SmartTable3x3c"
+	},
+	{
+		"abr": "sphinx",
+		"price": 16200,
+		"category": "Misc",
+		"defname": "AM_Sphynx"
+	},
+	{
+		"abr": "spinebarksap",
+		"price": 103,
+		"category": "Drugs",
+		"defname": "EMWH_SpinebarkSap"
+	},
+	{
+		"abr": "spook",
+		"price": 8333,
+		"category": "Drugs",
+		"defname": "EMWH_Spook"
+	},
+	{
+		"abr": "spur",
+		"price": 120,
+		"category": "Drugs",
+		"defname": "EMWH_Spur"
+	},
+	{
+		"abr": "stackedsandbags(1x2)",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "FTC_SandBag1x2c"
+	},
+	{
+		"abr": "stackedsandbags(2x2)",
+		"price": 139,
+		"category": "Furniture",
+		"defname": "FTC_SandBag2x2c"
+	},
+	{
+		"abr": "stationarychemfuelgenerator",
+		"price": 1750,
+		"category": "Misc",
+		"defname": "FT_CitadelGenerator"
+	},
+	{
+		"abr": "steampunkslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AM_SteampunkSlab_Broad"
+	},
+	{
+		"abr": "steampunkslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AM_SteampunkSlab_Medium"
+	},
+	{
+		"abr": "stew",
+		"price": 3,
+		"category": "Meals",
+		"defname": "FTC_MealStew"
+	},
+	{
+		"abr": "stone-framedbedroll",
+		"price": 159,
+		"category": "Furniture",
+		"defname": "AM_StoneBedroll"
+	},
+	{
+		"abr": "stormbolter(aa)",
+		"price": 4733,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_StormBolter"
+	},
+	{
+		"abr": "stormbolter(ig)",
+		"price": 4733,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_StormBolter"
+	},
+	{
+		"abr": "stormshield",
+		"price": 11875,
+		"category": "Armored",
+		"defname": "EMSM_StormShield"
+	},
+	{
+		"abr": "stormshield(a)",
+		"price": 392,
+		"category": "Armored",
+		"defname": "GW_SM_StormShieldA"
+	},
+	{
+		"abr": "stormshield(b)",
+		"price": 392,
+		"category": "Armored",
+		"defname": "GW_SM_StormShieldB"
+	},
+	{
+		"abr": "stormshield(c)",
+		"price": 392,
+		"category": "Armored",
+		"defname": "GW_SM_StormShieldC"
+	},
+	{
+		"abr": "stormshield(d)",
+		"price": 392,
+		"category": "Armored",
+		"defname": "GW_SM_StormShieldD"
+	},
+	{
+		"abr": "stormlordthunderhammer",
+		"price": 2950,
+		"category": "Melee weapons",
+		"defname": "GW_SM_Melee_ThunderHammer"
+	},
+	{
+		"abr": "stripe",
+		"price": 14,
+		"category": "Misc",
+		"defname": "FTC_FloorDecoC"
+	},
+	{
+		"abr": "stuntedintellectenhancer",
+		"price": 12500,
+		"category": "Cybernetics",
+		"defname": "BEWH_StuntedIntellectEnhancer"
+	},
+	{
+		"abr": "subskinarmor",
+		"price": 3117,
+		"category": "Archotech",
+		"defname": "EMWH_SubskinArmor"
+	},
+	{
+		"abr": "supplyconduit",
+		"price": 10,
+		"category": "Misc",
+		"defname": "Eccentric_SupplyConduit"
+	},
+	{
+		"abr": "supplyshelf",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_SupplyShelf"
+	},
+	{
+		"abr": "surcoat,powerarmor(aa)",
+		"price": 1825,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorSurcoat"
+	},
+	{
+		"abr": "suspiciousrum",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "AM_CorpseRumBasic"
+	},
+	{
+		"abr": "syntheticmusclegrafts(legimplant)",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "EMWH_SyntheticMuscleGrafts"
+	},
+	{
+		"abr": "synthmuscle",
+		"price": 4333,
+		"category": "Cybernetics",
+		"defname": "BEWH_Synthmuscle"
+	},
+	{
+		"abr": "tabard,spacemarine(aa)",
+		"price": 1825,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorTabardA"
+	},
+	{
+		"abr": "tabard,spacemarine(aa)",
+		"price": 1825,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorTabardB"
+	},
+	{
+		"abr": "tabard,spacemarine(aa)",
+		"price": 1825,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorTabardC"
+	},
+	{
+		"abr": "tacticusbackpack",
+		"price": 4358,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusBackpack"
+	},
+	{
+		"abr": "tacticushelmet",
+		"price": 3125,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusHelmet_Simple"
+	},
+	{
+		"abr": "tacticushelmet(laurels)",
+		"price": 3125,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusHelmet_Laurels"
+	},
+	{
+		"abr": "tacticushelmet(skull)",
+		"price": 3125,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusHelmet_Skull"
+	},
+	{
+		"abr": "tacticuspowerarmor",
+		"price": 15983,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusArmor"
+	},
+	{
+		"abr": "tacticusshoulderpads(a)",
+		"price": 9450,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusShoulderPads_TypeA"
+	},
+	{
+		"abr": "tacticusshoulderpads(b)",
+		"price": 9450,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusShoulderPads_TypeB"
+	},
+	{
+		"abr": "tacticusshoulderpads(c)",
+		"price": 9450,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusShoulderPads_TypeC"
+	},
+	{
+		"abr": "tacticusshoulderpads(d)",
+		"price": 9450,
+		"category": "Armored",
+		"defname": "GW_SM_TacticusShoulderPads_TypeD"
+	},
+	{
+		"abr": "talldisplayshelf",
+		"price": 148,
+		"category": "Storage",
+		"defname": "sbz_TallDisplayShelf"
+	},
+	{
+		"abr": "tankbunker",
+		"price": 4692,
+		"category": "Misc",
+		"defname": "FTC_AntiTank_Turret"
+	},
+	{
+		"abr": "tanktrap",
+		"price": 9,
+		"category": "Misc",
+		"defname": "FT_TankTrap"
+	},
+	{
+		"abr": "tanna",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "EMWH_Tanna"
+	},
+	{
+		"abr": "tarantulaturret(bolter)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Bolter"
+	},
+	{
+		"abr": "tarantulaturret(bolter)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Bolter_Buildable"
+	},
+	{
+		"abr": "tarantulaturret(flamer)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Flamer"
+	},
+	{
+		"abr": "tarantulaturret(flamer)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Flamer_Buildable"
+	},
+	{
+		"abr": "tarantulaturret(lasgun)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Lasgun"
+	},
+	{
+		"abr": "tarantulaturret(lasgun)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Lasgun_Buildable"
+	},
+	{
+		"abr": "tarantulaturret(missile)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Missile"
+	},
+	{
+		"abr": "tarantulaturret(missile)",
+		"price": 1842,
+		"category": "Misc",
+		"defname": "EMIM_TarantulaTurret_Missile_Buildable"
+	},
+	{
+		"abr": "tartaros,cruxterminatus(l)",
+		"price": 78,
+		"category": "Shoulder heraldry left",
+		"defname": "EMSM_AA_ShoulderPadCruxTartarosB"
+	},
+	{
+		"abr": "tartaros,cruxterminatus(r)",
+		"price": 78,
+		"category": "Shoulder heraldry right",
+		"defname": "EMSM_AA_ShoulderPadCruxTartarosA"
+	},
+	{
+		"abr": "teatable",
+		"price": 342,
+		"category": "Misc",
+		"defname": "AM_TeaCeremonyTable"
+	},
+	{
+		"abr": "techmarinearmor,aquila(aa)",
+		"price": 33333,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorMk7Techmarine"
+	},
+	{
+		"abr": "techmarinearmor,corvus(aa)",
+		"price": 33333,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorMk6Techmarine"
+	},
+	{
+		"abr": "techmarinearmor,crusade(aa)",
+		"price": 33333,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorMk2Techmarine"
+	},
+	{
+		"abr": "techmarinearmor,heresy(aa)",
+		"price": 33333,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorMk5Techmarine"
+	},
+	{
+		"abr": "techmarinearmor,iron(aa)",
+		"price": 33333,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorMk3Techmarine"
+	},
+	{
+		"abr": "techmarinearmor,maximus(aa)",
+		"price": 33333,
+		"category": "Armored",
+		"defname": "EMSM_AA_PowerArmorMk4Techmarine"
+	},
+	{
+		"abr": "techmarineshoulderframe(aa)",
+		"price": 733,
+		"category": "Shoulder",
+		"defname": "EMSM_AA_TechmarineShoulderFrame"
+	},
+	{
+		"abr": "tempestusarmor,blue(ig)",
+		"price": 2333,
+		"category": "Armored",
+		"defname": "EMIG_TempestusArmor_Blue"
+	},
+	{
+		"abr": "tempestusarmor,green(ig)",
+		"price": 2333,
+		"category": "Armored",
+		"defname": "EMIG_TempestusArmor_Green"
+	},
+	{
+		"abr": "tempestusarmor,red(iq)",
+		"price": 2333,
+		"category": "Armored",
+		"defname": "EMIQ_TempestusArmor_Red"
+	},
+	{
+		"abr": "tempestushelmet,blue(ig)",
+		"price": 1033,
+		"category": "Armored",
+		"defname": "EMIG_TempestusHelmet_Blue"
+	},
+	{
+		"abr": "tempestushelmet,green(ig)",
+		"price": 1033,
+		"category": "Armored",
+		"defname": "EMIG_TempestusHelmet_Green"
+	},
+	{
+		"abr": "balistarium",
+		"price": 9625,
+		"category": "Misc",
+		"defname": "Turret_Balistarium"
+	},
+	{
+		"abr": "boxpew",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "TST_BoxPew"
+	},
+	{
+		"abr": "cushionedpew",
+		"price": 367,
+		"category": "Furniture",
+		"defname": "TST_CushionedPew"
+	},
+	{
+		"abr": "drumbench",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "TST_DrumBench"
 	}
 	],
-	"total": 5141
+	"total": 5060
 }

@@ -24,6 +24,12 @@
     "version": null
   },
   {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "2.7.4+13335c18c5424729d48298958c20a420a57228cd"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -312,6 +318,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Spacer Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": null,
@@ -342,6 +354,12 @@
     "version": null
   },
   {
+    "author": "Kilroy232",
+    "name": "Extended Surgery (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
@@ -366,6 +384,12 @@
     "version": null
   },
   {
+    "author": "AmCh, HappyCam and Eragon",
+    "name": "Gene Fabrication",
+    "steamId": "3352773112",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
@@ -374,6 +398,12 @@
   {
     "author": "themoistestwhale",
     "name": "GiTS Cyberbrains",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mo",
+    "name": "Giant imperial turret",
     "steamId": null,
     "version": null
   },
@@ -603,7 +633,7 @@
     "author": "emitbreaker",
     "name": "MIM - WH40k Core",
     "steamId": "3092884094",
-    "version": "1.5.0.9683"
+    "version": "1.5.0.23536"
   },
   {
     "author": "emitbreaker",
@@ -661,18 +691,6 @@
   },
   {
     "author": "emitbreaker",
-    "name": "MIM - WH40k Necron Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "emitbreaker",
-    "name": "MIM - WH40k Orks Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "emitbreaker",
     "name": "MIM - WH40k Genestealer Cult Core",
     "steamId": null,
     "version": null
@@ -706,6 +724,18 @@
     "name": "Misc. Robots++",
     "steamId": "3253308913",
     "version": "3.3.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Toastyman",
+    "name": "More Ritual Seats",
+    "steamId": "3411913071",
+    "version": "1.0.0.0"
   },
   {
     "author": "Zylle",
@@ -750,10 +780,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Fluffy - DomB (1.5 and Lung Rot fix)",
+    "name": "Pharmacist",
+    "steamId": "3256204706",
+    "version": "2.9.141"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
   },
   {
     "author": "Rah",
@@ -778,6 +820,12 @@
     "name": "Realistic Rooms Rewritten",
     "steamId": "2558042766",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.72"
   },
   {
     "author": "PeteTimesSix",
@@ -886,6 +934,12 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Trade UI Revised",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RemingtonRyder",
@@ -1362,12 +1416,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
-    "name": "Alpha Memes",
-    "steamId": "2661356814",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Phonicmas",
     "name": "Warhammer 40.000 - Ideology",
     "steamId": "3046745982",
@@ -1378,6 +1426,12 @@
     "name": "Warhammer 40.000 - Imperium Weaponry: Grimworld Integration",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy (Arof and DomB)",
+    "name": "Work Tab",
+    "steamId": "3253535347",
+    "version": "1.0.0"
   },
   {
     "author": "FrozenSnowFox",
