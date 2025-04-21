@@ -174,6 +174,12 @@
     "version": null
   },
   {
+    "author": "avilmask",
+    "name": "Animal Controls",
+    "steamId": "2426119067",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dylan",
     "name": "Animal Gear",
     "steamId": "1541438907",
@@ -200,6 +206,30 @@
   {
     "author": "Meltup",
     "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mammalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Ear Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
     "steamId": null,
     "version": null
   },
@@ -360,6 +390,12 @@
     "version": null
   },
   {
+    "author": "Vagabond and Barsimmon",
+    "name": "Fantasy Goblins Updated",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
@@ -384,10 +420,16 @@
     "version": null
   },
   {
-    "author": "AmCh, HappyCam and Eragon",
-    "name": "Gene Fabrication",
-    "steamId": "3352773112",
-    "version": "1.0.0.0"
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "Fortification Industrial -Nuclear Dawn",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "m00nl1ght",
@@ -404,6 +446,12 @@
   {
     "author": "Mo",
     "name": "Giant imperial turret",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NanoCE",
+    "name": "Glass+Lights",
     "steamId": null,
     "version": null
   },
@@ -504,6 +552,12 @@
     "version": "1.0.0+9c9848ace7fcba915ec9d1b2614d8f5d0e795e49"
   },
   {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
     "name": "GrimWorld 40,000 - Hammer of the Imperium",
     "steamId": null,
@@ -520,12 +574,6 @@
     "name": "GrimWorld 40,000 - Imperial Vehicles of Grimworld",
     "steamId": "3026724919",
     "version": "1.0.0+ed6920e421af74cf7c8f188c370e6ba71d4cdb64"
-  },
-  {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.5.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -612,6 +660,12 @@
     "version": null
   },
   {
+    "author": "emitbreaker",
+    "name": "Faith Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
@@ -637,6 +691,12 @@
   },
   {
     "author": "emitbreaker",
+    "name": "MIM - WH40k Adeptus Ministorum",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
     "name": "MIM - WH40k Augmetics",
     "steamId": null,
     "version": null
@@ -655,7 +715,19 @@
   },
   {
     "author": "emitbreaker",
-    "name": "MIM - WH40k Adeptus Astartes Core",
+    "name": "MIM - WH40k Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Psycast",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Ideology",
     "steamId": null,
     "version": null
   },
@@ -679,13 +751,163 @@
   },
   {
     "author": "emitbreaker",
+    "name": "MIM - WH40k Adeptus Astartes Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Black Templars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Blood Angels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Carcharodons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
     "name": "MIM - WH40k Chaos Core",
     "steamId": null,
     "version": null
   },
   {
     "author": "emitbreaker",
+    "name": "MIM - WH40k Chaos Cult",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
     "name": "MIM - WH40k Chaos Daemons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Crimson Fists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Dark Angels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Death Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Emperors Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Fallen Angels",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Holy Orders of the Emperor's Inquisition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Imperial Fists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Iron Hands",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Minotaurs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Adepta Sororitas Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Order of Our Martyred Lady",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Order of the Bloody Rose",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "Simple Non Humanlike Pawn Control",
+    "steamId": "3465881088",
+    "version": "1.5.0.37328"
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Orks Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Raven Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Salamanders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Necron Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Sautekh",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Space Wolves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Szarekhan",
     "steamId": null,
     "version": null
   },
@@ -698,6 +920,30 @@
   {
     "author": "emitbreaker",
     "name": "MIM - WH40k The Hivecult",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Thousand Sons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Ultramarines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k White Scars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k World Eaters",
     "steamId": null,
     "version": null
   },
@@ -808,6 +1054,12 @@
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Resurrectionem",
+    "name": "RR's Furniture pack-Collection Longyun",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ratys",
