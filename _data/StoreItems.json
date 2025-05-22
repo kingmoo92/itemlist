@@ -4323,13 +4323,13 @@
 	{
 		"abr": "air-conindoorunit",
 		"price": 82,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "AirconIndoorUnit"
 	},
 	{
 		"abr": "air-conoutdoorunit",
 		"price": 458,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "AirConOutdoorUnit"
 	},
 	{
@@ -4581,13 +4581,13 @@
 	{
 		"abr": "ceilingfan1x1",
 		"price": 184,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "CeilingFanS"
 	},
 	{
 		"abr": "ceilingfan2x2",
 		"price": 184,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "CeilingFan"
 	},
 	{
@@ -4815,7 +4815,7 @@
 	{
 		"abr": "electricboiler",
 		"price": 425,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "ElectricBoiler"
 	},
 	{
@@ -5055,7 +5055,7 @@
 	{
 		"abr": "gasboiler",
 		"price": 425,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "GasBoiler"
 	},
 	{
@@ -5289,7 +5289,7 @@
 	{
 		"abr": "largeradiator",
 		"price": 252,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "RadiatorLarge"
 	},
 	{
@@ -5337,7 +5337,7 @@
 	{
 		"abr": "logboiler",
 		"price": 642,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "LogBoiler"
 	},
 	{
@@ -5763,7 +5763,7 @@
 	{
 		"abr": "radiator",
 		"price": 85,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "RadiatorStuffed"
 	},
 	{
@@ -6321,7 +6321,7 @@
 	{
 		"abr": "cleanerbasestation",
 		"price": 3250,
-		"category": "Furniture",
+		"category": "Robots",
 		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
 	{
@@ -6441,7 +6441,7 @@
 	{
 		"abr": "haulerbasestation",
 		"price": 3917,
-		"category": "Furniture",
+		"category": "Robots",
 		"defname": "AIRobot_RechargeStation_Hauler"
 	},
 	{
@@ -18285,7 +18285,7 @@
 	{
 		"abr": "thermostat",
 		"price": 86,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "Thermostat"
 	},
 	{
@@ -18573,7 +18573,7 @@
 	{
 		"abr": "towelrail",
 		"price": 85,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "RadiatorTowelRail"
 	},
 	{
@@ -19215,7 +19215,7 @@
 	{
 		"abr": "walk-infreezerunit",
 		"price": 153,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "FreezerUnit"
 	},
 	{
@@ -37440,6 +37440,2784 @@
 		"category": "Super capes",
 		"defname": "RH2ApparelHD2_Cape_CoverOfDarkness"
 	},
+	{
+		"abr": "adamantium",
+		"price": 22,
+		"category": "Raw resources",
+		"defname": "GF40K_Adamantium"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTArm"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTEar"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTEye"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTLeg"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 3617,
+		"category": "Road equipment",
+		"defname": "RotR_AISR2GNew"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 8967,
+		"category": "Power",
+		"defname": "RotR_AISR2G"
+	},
+	{
+		"abr": "alphapoly",
+		"price": 195,
+		"category": "Raw resources",
+		"defname": "AlphaPoly"
+	},
+	{
+		"abr": "animaseed",
+		"price": 3000,
+		"category": "Misc",
+		"defname": "RG_AnimaSeed"
+	},
+	{
+		"abr": "anti-airgun",
+		"price": 2392,
+		"category": "Security",
+		"defname": "FT_TurretAA"
+	},
+	{
+		"abr": "anti-tankgun",
+		"price": 2567,
+		"category": "Security",
+		"defname": "FT_TurretAT"
+	},
+	{
+		"abr": "apb-1pistol",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Pistol"
+	},
+	{
+		"abr": "apb-1projector",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Projector"
+	},
+	{
+		"abr": "apb-1rifle",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Rifle"
+	},
+	{
+		"abr": "arcmaul",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "GF40K_MechanicusArcMaul"
+	},
+	{
+		"abr": "arcpistol",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "GF40K_ArkPistol"
+	},
+	{
+		"abr": "arcrifle",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "GF40K_ArkRifle"
+	},
+	{
+		"abr": "arcticdrak",
+		"price": 767,
+		"category": "Animals",
+		"defname": "RG_ArcticDrak"
+	},
+	{
+		"abr": "arcticdrakmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_ArcticDrak"
+	},
+	{
+		"abr": "assasinblade",
+		"price": 1108,
+		"category": "Melee weapons",
+		"defname": "Gha_MeleeWeapon_AssassinBlade"
+	},
+	{
+		"abr": "auramite",
+		"price": 20,
+		"category": "Raw resources",
+		"defname": "GF40K_Auramite"
+	},
+	{
+		"abr": "autocannon",
+		"price": 617,
+		"category": "Security",
+		"defname": "FT_AutoCannon"
+	},
+	{
+		"abr": "autoclave",
+		"price": 1108,
+		"category": "Oil",
+		"defname": "Autoclave"
+	},
+	{
+		"abr": "automaticclustermortar",
+		"price": 12275,
+		"category": "Security",
+		"defname": "ClusterMortar"
+	},
+	{
+		"abr": "automaticmortar",
+		"price": 12275,
+		"category": "Security",
+		"defname": "AutoMortar"
+	},
+	{
+		"abr": "betapoly",
+		"price": 392,
+		"category": "Raw resources",
+		"defname": "BetaPoly"
+	},
+	{
+		"abr": "birdmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_Owlbeast"
+	},
+	{
+		"abr": "blackblood",
+		"price": 5000,
+		"category": "Cybernetics",
+		"defname": "BEWH_BlackBlood"
+	},
+	{
+		"abr": "blumtaskplantpot",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "BLUMTASK"
+	},
+	{
+		"abr": "boilberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RG_RawBoilberries"
+	},
+	{
+		"abr": "boltpistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GF40K_BoltPistol"
+	},
+	{
+		"abr": "boltsniperrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_BoltSniper"
+	},
+	{
+		"abr": "boltasklamp",
+		"price": 95,
+		"category": "Furniture",
+		"defname": "BOLTASKLamp"
+	},
+	{
+		"abr": "boltgun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_BoltGun"
+	},
+	{
+		"abr": "brazier",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_Brazier"
+	},
+	{
+		"abr": "builderbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Builder_I"
+	},
+	{
+		"abr": "builderbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Builder_II"
+	},
+	{
+		"abr": "builderbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Builder_III"
+	},
+	{
+		"abr": "builderbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Builder_IV"
+	},
+	{
+		"abr": "builderbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Builder_V"
+	},
+	{
+		"abr": "builder(i)basestation",
+		"price": 1750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "builder(ii)basestation",
+		"price": 3167,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "builder(iii)basestation",
+		"price": 8333,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 18750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 43750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "buldreststool",
+		"price": 5,
+		"category": "Furniture",
+		"defname": "BULDRESTStool"
+	},
+	{
+		"abr": "bumreststool",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "BUMRESTStool"
+	},
+	{
+		"abr": "buttekushpillow",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "BUTTEKUSHPillow"
+	},
+	{
+		"abr": "cannisterturret",
+		"price": 3858,
+		"category": "Security",
+		"defname": "CannisterTurret"
+	},
+	{
+		"abr": "ceilinglamp",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp"
+	},
+	{
+		"abr": "ceilinglamp(blue)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Blue"
+	},
+	{
+		"abr": "ceilinglamp(green)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Green"
+	},
+	{
+		"abr": "ceilinglamp(orange)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Orange"
+	},
+	{
+		"abr": "ceilinglamp(red)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Red"
+	},
+	{
+		"abr": "ceilinglamp(violet)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Violet"
+	},
+	{
+		"abr": "ceilinglamp(yellow)",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Yellow"
+	},
+	{
+		"abr": "cementplank",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_WoodConcrete"
+	},
+	{
+		"abr": "ceramite",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "GF40K_Ceramite"
+	},
+	{
+		"abr": "chainaxe",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GF40K_ChainAxe"
+	},
+	{
+		"abr": "chainspear",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GF40K_Chainspear"
+	},
+	{
+		"abr": "chainsword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GF40K_ChainSword"
+	},
+	{
+		"abr": "chemfuelpowerplant",
+		"price": 1558,
+		"category": "Oil",
+		"defname": "FuelPowerplant"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelHopper"
+	},
+	{
+		"abr": "chemfuelsiphon",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelSiphon"
+	},
+	{
+		"abr": "chemistrytable",
+		"price": 1767,
+		"category": "Production",
+		"defname": "FT_TableChemistry"
+	},
+	{
+		"abr": "chilleggcouch",
+		"price": 917,
+		"category": "Furniture",
+		"defname": "CHILLEGGCouch"
+	},
+	{
+		"abr": "cleaner(ii)basestation",
+		"price": 3167,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "cleaner(iii)basestation",
+		"price": 8333,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": 18750,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": 43750,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner_II"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner_III"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner_IV"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner_V"
+	},
+	{
+		"abr": "coelacanths",
+		"price": 5,
+		"category": "Raw fish",
+		"defname": "RG_RawCoelacanths"
+	},
+	{
+		"abr": "computercomponents",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "ComputerComp"
+	},
+	{
+		"abr": "concrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_BlocksConcrete"
+	},
+	{
+		"abr": "concretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_Barrier"
+	},
+	{
+		"abr": "concretemixer",
+		"price": 600,
+		"category": "Production",
+		"defname": "FT_TableConcreteMixer"
+	},
+	{
+		"abr": "concretemixer",
+		"price": 500,
+		"category": "Production",
+		"defname": "IC_PortableConcrete"
+	},
+	{
+		"abr": "crafterbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Crafter_I"
+	},
+	{
+		"abr": "crafterbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Crafter_II"
+	},
+	{
+		"abr": "crafterbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Crafter_III"
+	},
+	{
+		"abr": "crafterbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Crafter_IV"
+	},
+	{
+		"abr": "crafterbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Crafter_V"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": 1750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": 3167,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": 8333,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": 18750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": 43750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "cruisemissileturret",
+		"price": 34375,
+		"category": "Security",
+		"defname": "CMissileTurret"
+	},
+	{
+		"abr": "cybermantle",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_MechanicusAssimilation"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticArm"
+	},
+	{
+		"abr": "cyberneticear",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticEar"
+	},
+	{
+		"abr": "cyberneticeye",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticEye"
+	},
+	{
+		"abr": "cyberneticheart",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTHeart"
+	},
+	{
+		"abr": "cyberneticheart",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticHeart"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticJaw"
+	},
+	{
+		"abr": "cybernetickidney",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTKidney"
+	},
+	{
+		"abr": "cybernetickidney",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticKidney"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLeg"
+	},
+	{
+		"abr": "cyberneticliver",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTLiver"
+	},
+	{
+		"abr": "cyberneticliver",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLiver"
+	},
+	{
+		"abr": "cyberneticlung",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTLung"
+	},
+	{
+		"abr": "cyberneticlung",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticLung"
+	},
+	{
+		"abr": "cyberneticspine",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticSpine"
+	},
+	{
+		"abr": "cyberneticstomach",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTStomach"
+	},
+	{
+		"abr": "cyberneticstomach",
+		"price": 3667,
+		"category": "Cybernetics",
+		"defname": "BEWH_CyberneticStomach"
+	},
+	{
+		"abr": "cybernetictongue",
+		"price": 6075,
+		"category": "Bionic",
+		"defname": "GTTongue"
+	},
+	{
+		"abr": "dendriteblade",
+		"price": 1833,
+		"category": "Cybernetics",
+		"defname": "BEWH_DendriteBlade"
+	},
+	{
+		"abr": "devilsholepupfish",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "RG_RawDevilsHole"
+	},
+	{
+		"abr": "diagonalconcretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_BarrierDiagonal"
+	},
+	{
+		"abr": "diamantine",
+		"price": 20,
+		"category": "Raw resources",
+		"defname": "GF40K_Diamantine"
+	},
+	{
+		"abr": "dodo",
+		"price": 200,
+		"category": "Animals",
+		"defname": "RG_Dodo"
+	},
+	{
+		"abr": "dodoegg(fert.)",
+		"price": 27,
+		"category": "Eggs (fert.)",
+		"defname": "RG_EggDodoEggFertilized"
+	},
+	{
+		"abr": "dodoegg(unfert.)",
+		"price": 27,
+		"category": "Eggs (unfert.)",
+		"defname": "RG_EggDodoEggUnfertilized"
+	},
+	{
+		"abr": "drakegg(fert.)",
+		"price": 158,
+		"category": "Eggs (fert.)",
+		"defname": "RG_EggArticDrakFertilized"
+	},
+	{
+		"abr": "dynamicrelaxationchair",
+		"price": 5300,
+		"category": "Furniture",
+		"defname": "DynChair"
+	},
+	{
+		"abr": "e.n.i.a.c.",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "FT_ENIAC"
+	},
+	{
+		"abr": "eatflatttable",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "EATFLATTTable"
+	},
+	{
+		"abr": "electricglassworks",
+		"price": 255,
+		"category": "Production",
+		"defname": "GlassworkTable"
+	},
+	{
+		"abr": "electriclathe",
+		"price": 933,
+		"category": "Production",
+		"defname": "FT_TableLathe"
+	},
+	{
+		"abr": "electrolyzer",
+		"price": 9633,
+		"category": "Production",
+		"defname": "Electrolyzer"
+	},
+	{
+		"abr": "embeddedauspex",
+		"price": 3333,
+		"category": "Cybernetics",
+		"defname": "BEWH_EmbeddedAuspex"
+	},
+	{
+		"abr": "emrgturret",
+		"price": 6875,
+		"category": "Security",
+		"defname": "EMTurret"
+	},
+	{
+		"abr": "emrg-1",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMRifle"
+	},
+	{
+		"abr": "erbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_ER_I"
+	},
+	{
+		"abr": "erbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_ER_II"
+	},
+	{
+		"abr": "erbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_ER_III"
+	},
+	{
+		"abr": "erbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_ER_IV"
+	},
+	{
+		"abr": "erbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_ER_V"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": 1750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": 3167,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": 8333,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": 18750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": 43750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "ethanol",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "Ethanol"
+	},
+	{
+		"abr": "eviscerator",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GF40K_Eviscerator"
+	},
+	{
+		"abr": "feerstellfireplace",
+		"price": 608,
+		"category": "Furniture",
+		"defname": "FEERSTELL"
+	},
+	{
+		"abr": "ferriclureimplant",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_FerricLureImplant"
+	},
+	{
+		"abr": "ferrocrete",
+		"price": 8,
+		"category": "Stone blocks",
+		"defname": "GF40K_Ferrocrete"
+	},
+	{
+		"abr": "fibreskinsuit",
+		"price": 4667,
+		"category": "Armor",
+		"defname": "Apparel_NanoSkin"
+	},
+	{
+		"abr": "fieldcannon",
+		"price": 5042,
+		"category": "Security",
+		"defname": "FT_TurretEmpero"
+	},
+	{
+		"abr": "fieldkitchen",
+		"price": 265,
+		"category": "Production",
+		"defname": "FTC_FieldKitchen"
+	},
+	{
+		"abr": "fissionbattery",
+		"price": 12675,
+		"category": "Power",
+		"defname": "FissionBattery"
+	},
+	{
+		"abr": "flamer",
+		"price": 1242,
+		"category": "Ranged weapons",
+		"defname": "GF40K_Flamer"
+	},
+	{
+		"abr": "flikfutrug",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "aFLIKFUTRug"
+	},
+	{
+		"abr": "floodlight",
+		"price": 808,
+		"category": "Furniture",
+		"defname": "GTFloodLight"
+	},
+	{
+		"abr": "forcehalberd",
+		"price": 3567,
+		"category": "Melee weapons",
+		"defname": "GF40K_ForceHalberd"
+	},
+	{
+		"abr": "forcestaff",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "GF40K_ForceStaff"
+	},
+	{
+		"abr": "forcesword",
+		"price": 3567,
+		"category": "Melee weapons",
+		"defname": "GF40K_ForceSword"
+	},
+	{
+		"abr": "fueledglassworks",
+		"price": 268,
+		"category": "Production",
+		"defname": "FueledGlassworkTable"
+	},
+	{
+		"abr": "futstentrug",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "FUTSTENTRug"
+	},
+	{
+		"abr": "galvanicrifle",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "GF40K_GalvanicRifle"
+	},
+	{
+		"abr": "glass",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "Glass"
+	},
+	{
+		"abr": "glassworkstv",
+		"price": 1417,
+		"category": "Recreation",
+		"defname": "GlassMonitorLarge"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_GrenadeLauncher"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestancientbed",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VME_AncientBedGuest"
+	},
+	{
+		"abr": "guestancientbed",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "VFEA_AncientBedGuest"
+	},
+	{
+		"abr": "guestancientcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "VFEA_AncientCryptosleepSuspenderGuest"
+	},
+	{
+		"abr": "guestancienthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "AG_RuinedHospitalBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestchemfuelbath",
+		"price": 467,
+		"category": "Prisoner restraints",
+		"defname": "SilkCircuit_ChemfuelBathGuest"
+	},
+	{
+		"abr": "guestchiseledbed",
+		"price": 168,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestchiseleddoublebed",
+		"price": 318,
+		"category": "Furniture",
+		"defname": "VFE_Bed_StoneSlabDoubleGuest"
+	},
+	{
+		"abr": "guestcommondoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "GW_IF_CommonDoubleGuest"
+	},
+	{
+		"abr": "guestcommonsinglebed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "GW_IF_CommonSingleGuest"
+	},
+	{
+		"abr": "guestcrib",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "CribGuest"
+	},
+	{
+		"abr": "guestcrudebed",
+		"price": 33,
+		"category": "Beastmen",
+		"defname": "RH_TET_Beastmen_HidePileGuest"
+	},
+	{
+		"abr": "guestcrudecot",
+		"price": 50,
+		"category": "Beastmen",
+		"defname": "RH_TET_Beastmen_BedGuest"
+	},
+	{
+		"abr": "guestcrudedoublecot",
+		"price": 67,
+		"category": "Beastmen",
+		"defname": "RH_TET_Beastmen_BedDoubleGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestcubicbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "AM_CubicBedGuest"
+	},
+	{
+		"abr": "guestcubiccrib",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "AM_CubicCribGuest"
+	},
+	{
+		"abr": "guestcubichospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "AM_CubicHospitalBedGuest"
+	},
+	{
+		"abr": "guestcyberbodyanchor",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "gitsCyberbodyAnchorGuest"
+	},
+	{
+		"abr": "guestdawibed",
+		"price": 189,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarfs_BedGuest"
+	},
+	{
+		"abr": "guestdawidoublebed",
+		"price": 367,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarfs_DoubleBedGuest"
+	},
+	{
+		"abr": "guestdawihighbloodbed",
+		"price": 1683,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarfs_RoyalBedGuest"
+	},
+	{
+		"abr": "guestdeathrestcasket",
+		"price": 492,
+		"category": "Misc",
+		"defname": "DeathrestCasketGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestdoublecubicbed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "AM_DoubleCubicBedGuest"
+	},
+	{
+		"abr": "guestdoublefurbed",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "VFEM2_DoubleFurBedGuest"
+	},
+	{
+		"abr": "guestdoublehoraxianbed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "AM_DoubleHoraxianBedGuest"
+	},
+	{
+		"abr": "guestdoublestone-framedbedroll",
+		"price": 295,
+		"category": "Furniture",
+		"defname": "AM_DoubleStoneBedrollGuest"
+	},
+	{
+		"abr": "guestempirebed",
+		"price": 172,
+		"category": "Empire",
+		"defname": "RH_TET_Empire_BedGuest"
+	},
+	{
+		"abr": "guestempiredoublebed",
+		"price": 326,
+		"category": "Empire",
+		"defname": "RH_TET_Empire_DoubleBedGuest"
+	},
+	{
+		"abr": "guestempireroyalbed",
+		"price": 1650,
+		"category": "Empire",
+		"defname": "RH_TET_Empire_RoyalBedGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 408,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 817,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guestfurbed",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "VFEM2_FurBedGuest"
+	},
+	{
+		"abr": "guesthoraxianbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "AM_HoraxianBedGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guesthumiliationcage",
+		"price": 467,
+		"category": "Prisoner restraints",
+		"defname": "SilkCircuit_PrisonerCageGuest"
+	},
+	{
+		"abr": "guestimperialdoublebed",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "ImpDoubleBedGuest"
+	},
+	{
+		"abr": "guestimperialhospitalbed",
+		"price": 2450,
+		"category": "Furniture",
+		"defname": "ImpHospitalBedGuest"
+	},
+	{
+		"abr": "guestkrudneppsinglebed",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingleGuest"
+	},
+	{
+		"abr": "guestlounger",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "VFE_LoungerGuest"
+	},
+	{
+		"abr": "guestmedicaebed",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "GW_IF_MedicaeBedGuest"
+	},
+	{
+		"abr": "guestneutrocasket",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "VREA_NeutroCasketGuest"
+	},
+	{
+		"abr": "guestnobledoublebed",
+		"price": 1417,
+		"category": "Furniture",
+		"defname": "GW_IF_RoyalDoubleGuest"
+	},
+	{
+		"abr": "guestnoblesinglebed",
+		"price": 1283,
+		"category": "Furniture",
+		"defname": "GW_IF_RoyalSingleGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestpilfurbed",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "PILFURBedGuest"
+	},
+	{
+		"abr": "guestprisonerbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "GW_IF_PrisonerSingleGuest"
+	},
+	{
+		"abr": "guestre-ambulationpod",
+		"price": 12458,
+		"category": "Furniture",
+		"defname": "ambTableGuest"
+	},
+	{
+		"abr": "guestrestoredancientbed",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "AM_AncientBedGuest"
+	},
+	{
+		"abr": "guestrestoredancientdoublebed",
+		"price": 242,
+		"category": "Furniture",
+		"defname": "AM_AncientDoubleBedGuest"
+	},
+	{
+		"abr": "guestrestoredancientoperatingtable",
+		"price": 650,
+		"category": "Furniture",
+		"defname": "AM_AncientOperatingTableGuest"
+	},
+	{
+		"abr": "guestrestrainingtable",
+		"price": 276,
+		"category": "Prisoner restraints",
+		"defname": "SilkCircuit_TortureBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2100,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestrustedancientbed",
+		"price": 238,
+		"category": "Furniture",
+		"defname": "VQE_RuinedHospitalBedGuest"
+	},
+	{
+		"abr": "guestsensorycollapser",
+		"price": 1075,
+		"category": "Prisoner restraints",
+		"defname": "SilkCircuit_SensoryCollapserGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestsimpledoublebed",
+		"price": 274,
+		"category": "Furniture",
+		"defname": "VFE_Bed_SimpleDoubleGuest"
+	},
+	{
+		"abr": "guestskavenbed",
+		"price": 127,
+		"category": "Skaven",
+		"defname": "RH_TET_Skaven_BedGuest"
+	},
+	{
+		"abr": "guestskavenbedroll",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "RH_TET_Skaven_ClanratBedrollGuest"
+	},
+	{
+		"abr": "guestskavendoublebed",
+		"price": 253,
+		"category": "Skaven",
+		"defname": "RH_TET_Skaven_DoubleBedGuest"
+	},
+	{
+		"abr": "guestskavenslavebedroll",
+		"price": 120,
+		"category": "Furniture",
+		"defname": "RH_TET_Skaven_SlaveBedrollGuest"
+	},
+	{
+		"abr": "guestskavenwarlord'sbed",
+		"price": 1167,
+		"category": "Skaven",
+		"defname": "RH_TET_Skaven_RoyalBedGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "SlabBedGuest"
+	},
+	{
+		"abr": "guestslabdoublebed",
+		"price": 288,
+		"category": "Furniture",
+		"defname": "SlabDoubleBedGuest"
+	},
+	{
+		"abr": "guestslabneppdoublebed",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SLABNEPPDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggdoublebed",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "SNOREGGDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggsinglebed",
+		"price": 276,
+		"category": "Furniture",
+		"defname": "SNOREGGSingleGuest"
+	},
+	{
+		"abr": "gueststone-framedbedroll",
+		"price": 159,
+		"category": "Furniture",
+		"defname": "AM_StoneBedrollGuest"
+	},
+	{
+		"abr": "guesttent",
+		"price": 207,
+		"category": "Furniture",
+		"defname": "VFEC_TentGuest"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": 3167,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": 8333,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": 18750,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": 43750,
+		"category": "Robots",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler_II"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler_III"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler_IV"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler_V"
+	},
+	{
+		"abr": "hc-1shield",
+		"price": 4542,
+		"category": "Utility",
+		"defname": "Apparel_HC1Shield"
+	},
+	{
+		"abr": "heavydinosaurshide",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "RG_DinosaursHideHeavy"
+	},
+	{
+		"abr": "helldivercape(crestinghonor)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_CrestingHonor"
+	},
+	{
+		"abr": "helldivercape(crimsonfang)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_CrimsonFang"
+	},
+	{
+		"abr": "helldivercape(eagle'sfury)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_EaglesFury"
+	},
+	{
+		"abr": "helldivercape(executioner'scanopy)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_ExecutionersCanopy"
+	},
+	{
+		"abr": "helldivercape(fallenheroes)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_FallenHeroes"
+	},
+	{
+		"abr": "helldivercape(foesmasher)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_Foesmasher"
+	},
+	{
+		"abr": "helldivercape(fruitoffaultlessvirtue)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_FruitOfFaultlessVirtue"
+	},
+	{
+		"abr": "helldivercape(prideofthewhisleblower)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_PrideOfTheWhisleblower"
+	},
+	{
+		"abr": "helldivercape(willofthepeople)",
+		"price": 367,
+		"category": "Super capes",
+		"defname": "RH2ApparelHD2_Cape_WillOfThePeople"
+	},
+	{
+		"abr": "hellgun",
+		"price": 7500,
+		"category": "Ranged weapons",
+		"defname": "GF40K_Hellgun"
+	},
+	{
+		"abr": "helmetofregeneration",
+		"price": 5000,
+		"category": "Headgear",
+		"defname": "RH_TET_Magic_HelmetRegeneration"
+	},
+	{
+		"abr": "hemogendraught",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VFEM2_HemogenDraught"
+	},
+	{
+		"abr": "hemolope",
+		"price": 1033,
+		"category": "Animals",
+		"defname": "RG_Hemolope"
+	},
+	{
+		"abr": "hemolopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_Hemolope"
+	},
+	{
+		"abr": "heraldicrug(broad)",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "VFEM2_HeraldicRugBroad"
+	},
+	{
+		"abr": "heraldicrug(grand)",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "VFEM2_HeraldicRugGrand"
+	},
+	{
+		"abr": "heraldicrug(narrow)",
+		"price": 300,
+		"category": "Furniture",
+		"defname": "VFEM2_HeraldicRugNarrow"
+	},
+	{
+		"abr": "heraldicstandard",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "VFEM2_MeleeWeapon_Standard"
+	},
+	{
+		"abr": "heraldicstandingbanner",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "VFEM2_StandingBanner"
+	},
+	{
+		"abr": "hexagonalmortarlauncher",
+		"price": 7633,
+		"category": "Security",
+		"defname": "FT_TurretHexMortar"
+	},
+	{
+		"abr": "hexmarkdestroyer(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T5_HexmarkDestroyer_Szarekhan"
+	},
+	{
+		"abr": "hochlandfineshield",
+		"price": 400,
+		"category": "Hochland",
+		"defname": "RH_TET_Empire_ShieldHigh_Hochland"
+	},
+	{
+		"abr": "hochlandhighofficershirt",
+		"price": 224,
+		"category": "Hochland",
+		"defname": "RH_TET_EmpireShirt_High_Hochland"
+	},
+	{
+		"abr": "hochlandimprovedshield",
+		"price": 266,
+		"category": "Hochland",
+		"defname": "RH_TET_Empire_ShieldMid_Hochland"
+	},
+	{
+		"abr": "hochlandlongrifle",
+		"price": 900,
+		"category": "Empire",
+		"defname": "RH_TET_Empire_Gun_SniperRifle"
+	},
+	{
+		"abr": "hochlandofficershirt",
+		"price": 182,
+		"category": "Hochland",
+		"defname": "RH_TET_EmpireShirt_Mid_Hochland"
+	},
+	{
+		"abr": "hochlandshield",
+		"price": 169,
+		"category": "Hochland",
+		"defname": "RH_TET_Empire_Shield_Low_Hochland"
+	},
+	{
+		"abr": "hochlandsoldiershirt",
+		"price": 139,
+		"category": "Hochland",
+		"defname": "RH_TET_EmpireShirt_Hochland"
+	},
+	{
+		"abr": "hoisteprug",
+		"price": 15,
+		"category": "Furniture",
+		"defname": "HOISTEPRug"
+	},
+	{
+		"abr": "holybook(adeptusministorum)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Bible_Ministorum"
+	},
+	{
+		"abr": "holybook(cultmechanicus)",
+		"price": 833333,
+		"category": "Books",
+		"defname": "EMWH_Bible_Mechanicus"
+	},
+	{
+		"abr": "honey",
+		"price": 25,
+		"category": "Animal products",
+		"defname": "RH_TET_Empire_Honey"
+	},
+	{
+		"abr": "honouredimperialstatue",
+		"price": 1875,
+		"category": "Art",
+		"defname": "IG_Statue_HonImp"
+	},
+	{
+		"abr": "horizontalweaponrack",
+		"price": 148,
+		"category": "Storage",
+		"defname": "sbz_HorizontalWeaponRack"
+	},
+	{
+		"abr": "hornofkhorne",
+		"price": 1167,
+		"category": "Magic artifacts",
+		"defname": "RH_TET_KhorneHorn"
+	},
+	{
+		"abr": "hornedskaven",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "RH_TET_Skaven_HornedAlien"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RH_TET_Horse"
+	},
+	{
+		"abr": "howitzer",
+		"price": 3767,
+		"category": "Security",
+		"defname": "FT_TurretPrince"
+	},
+	{
+		"abr": "hydrant",
+		"price": 300,
+		"category": "Misc",
+		"defname": "FT_FirefoamPopper"
+	},
+	{
+		"abr": "hyperweaverefiner",
+		"price": 2075,
+		"category": "Oil",
+		"defname": "HyperweaveRefiner"
+	},
+	{
+		"abr": "icebear",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "RH_TET_Bear_Ice"
+	},
+	{
+		"abr": "icebearmantle",
+		"price": 675,
+		"category": "Empire",
+		"defname": "RH_TET_Empire_Apparel_IceBear"
+	},
+	{
+		"abr": "idolofshallya",
+		"price": 683,
+		"category": "Art",
+		"defname": "RH_TET_Magic_FaithIdol_Shallya"
+	},
+	{
+		"abr": "idolofsigmar",
+		"price": 683,
+		"category": "Art",
+		"defname": "RH_TET_Magic_FaithIdol_Sigmar"
+	},
+	{
+		"abr": "idolofulric",
+		"price": 683,
+		"category": "Art",
+		"defname": "RH_TET_Magic_FaithIdol_Ulric"
+	},
+	{
+		"abr": "iliastusassaultcannon",
+		"price": 5000,
+		"category": "Imperial Ranged Weapons",
+		"defname": "IG_Gun_AssCan"
+	},
+	{
+		"abr": "immortal(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T4_Immortal_Szarekhan"
+	},
+	{
+		"abr": "immunizationdraught",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VFEM2_ImmunizationDraught"
+	},
+	{
+		"abr": "impmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RH_TET_Daemon_Imp"
+	},
+	{
+		"abr": "impeialrejuvenat",
+		"price": 8333,
+		"category": "Imperial Augments",
+		"defname": "IG_IMP_Rejuvenat"
+	},
+	{
+		"abr": "imperialarmorfabricator",
+		"price": 8617,
+		"category": "Production",
+		"defname": "ImperialArmorFab"
+	},
+	{
+		"abr": "imperialbasicservoarm",
+		"price": 2500,
+		"category": "Imperial Armor Addons",
+		"defname": "IGStd-ServoArm"
+	},
+	{
+		"abr": "imperialbasicservoskull",
+		"price": 42,
+		"category": "Robots",
+		"defname": "QX_Serv_ServoSkullT0_disabled"
+	},
+	{
+		"abr": "imperialbasicservoskullbasestation",
+		"price": 6667,
+		"category": "Furniture",
+		"defname": "IG_Serv_ServoSkullT0_RechargeStn"
+	},
+	{
+		"abr": "imperialbattery",
+		"price": 1742,
+		"category": "Power",
+		"defname": "ImpBattery"
+	},
+	{
+		"abr": "imperialcadianshocktrooperarmor",
+		"price": 1500,
+		"category": "Imperial Armor",
+		"defname": "IG_ARM_CadianArmor"
+	},
+	{
+		"abr": "imperialcadianshocktrooperhelmet",
+		"price": 583,
+		"category": "Imperial Headgear",
+		"defname": "IG_ARM_CadianHelmet"
+	},
+	{
+		"abr": "imperialcomponent",
+		"price": 250,
+		"category": "Imperial Manufactured Resources",
+		"defname": "ImperialComponent"
+	},
+	{
+		"abr": "imperialconstructionfabricator",
+		"price": 2217,
+		"category": "Production",
+		"defname": "IG_ImperialCONFabricator"
+	},
+	{
+		"abr": "imperialdeathcorpsofkriegarmor",
+		"price": 1333,
+		"category": "Imperial Armor",
+		"defname": "IG_ARM_KriegArmor"
+	},
+	{
+		"abr": "imperialdeathcorpsofkrieghelmet",
+		"price": 500,
+		"category": "Imperial Headgear",
+		"defname": "IG_ARM_KriegHelmet"
+	},
+	{
+		"abr": "imperialdemocharge",
+		"price": 7158,
+		"category": "Security",
+		"defname": "IG_DEMOBlastCharge"
+	},
+	{
+		"abr": "imperialdoublebed",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "ImpDoubleBed"
+	},
+	{
+		"abr": "imperialempcharge",
+		"price": 5842,
+		"category": "Security",
+		"defname": "IG_EMPBlastCharge"
+	},
+	{
+		"abr": "imperialfabricator",
+		"price": 6825,
+		"category": "Production",
+		"defname": "ImperialFabricator"
+	},
+	{
+		"abr": "imperialferrocrete",
+		"price": 2,
+		"category": "Imperial Construction Materials",
+		"defname": "IG_RES_FerroCrete"
+	},
+	{
+		"abr": "imperialflakplate",
+		"price": 3333,
+		"category": "Imperial Armor Addons",
+		"defname": "IGStd-FlakPlate"
+	},
+	{
+		"abr": "imperialflooraquilaseal3x3",
+		"price": 1283,
+		"category": "Art",
+		"defname": "IGFL_3x3_Aquila"
+	},
+	{
+		"abr": "imperialflooraquilaseal5x5",
+		"price": 1817,
+		"category": "Art",
+		"defname": "IGFL_5x5_Aquila"
+	},
+	{
+		"abr": "imperialfloorskullrug2x3",
+		"price": 1283,
+		"category": "Art",
+		"defname": "IGFL_2x3_Skull"
+	},
+	{
+		"abr": "imperialfloortenthrug2x3",
+		"price": 1317,
+		"category": "Art",
+		"defname": "IGFL_2x3_Tenth"
+	},
+	{
+		"abr": "imperialgrenadelauncher",
+		"price": 3333,
+		"category": "Imperial Ranged Weapons",
+		"defname": "Gun_ImpGrenadeLauncher"
+	},
+	{
+		"abr": "imperialguardcarapacearmor",
+		"price": 1333,
+		"category": "Imperial Armor",
+		"defname": "IGStd-CaraArmorMk"
+	},
+	{
+		"abr": "imperialguardcarapacehelmet",
+		"price": 583,
+		"category": "Imperial Headgear",
+		"defname": "IGStd-CaraHelmetMk"
+	},
+	{
+		"abr": "imperialguardcommissarcap",
+		"price": 583,
+		"category": "Imperial Clothes",
+		"defname": "IGCommissarCap"
+	},
+	{
+		"abr": "imperialguardgreatcoat",
+		"price": 833,
+		"category": "Imperial Clothes",
+		"defname": "IGGreatCoat"
+	},
+	{
+		"abr": "imperialguardjumpsuit",
+		"price": 583,
+		"category": "Imperial Clothes",
+		"defname": "IGJumpSuit"
+	},
+	{
+		"abr": "imperialguardstdarmor",
+		"price": 1333,
+		"category": "Imperial Armor",
+		"defname": "IGStd-ArmorMk"
+	},
+	{
+		"abr": "imperialguardstdhelmet",
+		"price": 500,
+		"category": "Imperial Headgear",
+		"defname": "IGStd-HelmetMk"
+	},
+	{
+		"abr": "imperialhospitalbed",
+		"price": 2450,
+		"category": "Furniture",
+		"defname": "ImpHospitalBed"
+	},
+	{
+		"abr": "imperiallamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "IG_WH40kSciFiLamp"
+	},
+	{
+		"abr": "imperialmanufacturingcogitator",
+		"price": 6142,
+		"category": "Misc",
+		"defname": "ManCogitator"
+	},
+	{
+		"abr": "imperialmedicalfabricator",
+		"price": 8617,
+		"category": "Production",
+		"defname": "ImperialMedicalFab"
+	},
+	{
+		"abr": "imperialmedkit",
+		"price": 167,
+		"category": "Medicine",
+		"defname": "IG_IMPMedKit"
+	},
+	{
+		"abr": "imperialnanocomponent",
+		"price": 833,
+		"category": "Imperial Manufactured Resources",
+		"defname": "IG_ImperialNanoComponent"
+	},
+	{
+		"abr": "imperialoribtalbombardmentdesignator",
+		"price": 4167,
+		"category": "Imperial Ranged Weapons",
+		"defname": "IG_Orbital_QXBomb"
+	},
+	{
+		"abr": "imperialoribtallancedesignator",
+		"price": 4167,
+		"category": "Imperial Ranged Weapons",
+		"defname": "IG_Orbital_QXBeam"
+	},
+	{
+		"abr": "imperialplascrete",
+		"price": 2,
+		"category": "Imperial Construction Materials",
+		"defname": "IG_RES_PlasCrete"
+	},
+	{
+		"abr": "imperialpowercore",
+		"price": 833,
+		"category": "Imperial Manufactured Resources",
+		"defname": "ImperialPowercore"
+	},
+	{
+		"abr": "imperialpromethiumfuelblock",
+		"price": 833,
+		"category": "Imperial Manufactured Resources",
+		"defname": "ImperialPromFuel"
+	},
+	{
+		"abr": "imperialquadrocketlauncher",
+		"price": 3333,
+		"category": "Imperial Ranged Weapons",
+		"defname": "Gun_QuadRktLauncher"
+	},
+	{
+		"abr": "imperialresearchcogitator",
+		"price": 8700,
+		"category": "Misc",
+		"defname": "ResCogitator"
+	},
+	{
+		"abr": "imperialrockcrete",
+		"price": 2,
+		"category": "Imperial Construction Materials",
+		"defname": "IG_RES_RockCrete"
+	},
+	{
+		"abr": "imperialservoskullt1(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "QX_Serv_ServoSkullT1_disabled"
+	},
+	{
+		"abr": "imperialservoskullt1basestation",
+		"price": 10000,
+		"category": "Furniture",
+		"defname": "IG_Serv_ServoSkullT1_RechargeStn"
+	},
+	{
+		"abr": "imperialservoskullt2(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "QX_Serv_ServoSkullT2_disabled"
+	},
+	{
+		"abr": "imperialservoskullt2basestation",
+		"price": 13333,
+		"category": "Furniture",
+		"defname": "IG_Serv_ServoSkullT2_RechargeStn"
+	},
+	{
+		"abr": "imperialservoskullt3(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "QX_Serv_ServoSkullT3_disabled"
+	},
+	{
+		"abr": "imperialservoskullt3basestation",
+		"price": 16667,
+		"category": "Furniture",
+		"defname": "IG_Serv_ServoSkullT3_RechargeStn"
+	},
+	{
+		"abr": "imperialservoskullfabricator",
+		"price": 8617,
+		"category": "Production",
+		"defname": "IG_ImperialSERVFab"
+	},
+	{
+		"abr": "imperialstatuetoarbites",
+		"price": 1283,
+		"category": "Art",
+		"defname": "StatueArbites"
+	},
+	{
+		"abr": "imperialstatuetoastramilitarum",
+		"price": 1283,
+		"category": "Art",
+		"defname": "StatueSkull"
+	},
+	{
+		"abr": "imperialthermaldrill",
+		"price": 6592,
+		"category": "Security",
+		"defname": "IG_IMPThermalDrill"
+	},
+	{
+		"abr": "imperialthuddmortars",
+		"price": 2,
+		"category": "Imperial Manufactured Resources",
+		"defname": "IG_Ammo_Thudd"
+	},
+	{
+		"abr": "imperialvoidshieldbelt",
+		"price": 583,
+		"category": "Imperial Armor Addons",
+		"defname": "IGVoidShieldBelt"
+	},
+	{
+		"abr": "imperialwalllightgold",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "IG_WallLightGOLD"
+	},
+	{
+		"abr": "imperialwalllightsilver",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "IG_WallLightSilver"
+	},
+	{
+		"abr": "imperialweaponfabricator",
+		"price": 8617,
+		"category": "Production",
+		"defname": "ImperialWeaponFab"
+	},
+	{
+		"abr": "improvedthundererrifle",
+		"price": 858,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarf_ThundererGun_High"
+	},
+	{
+		"abr": "incendiaryblast",
+		"price": 583,
+		"category": "Blasting",
+		"defname": "RH_TET_Dwarfs_BlastingChargeIncendiary"
+	},
+	{
+		"abr": "industrialapiary",
+		"price": 2250,
+		"category": "Production",
+		"defname": "VFE_IndustrialApiary"
+	},
+	{
+		"abr": "infantrymortar",
+		"price": 1167,
+		"category": "Security",
+		"defname": "FT_Turret_Mortar"
+	},
+	{
+		"abr": "inspirationdraught",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VFEM2_InspirationDraught"
+	},
+	{
+		"abr": "interfaceport",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_InterfacePort"
+	},
+	{
+		"abr": "internalresevoir",
+		"price": 8333,
+		"category": "Cybernetics",
+		"defname": "BEWH_InternalResevoir"
+	},
+	{
+		"abr": "isr2g",
+		"price": 958,
+		"category": "Road equipment",
+		"defname": "RotR_ISR2GNew"
+	},
+	{
+		"abr": "isr2g",
+		"price": 48,
+		"category": "Power",
+		"defname": "RotR_ISR2G"
+	},
+	{
+		"abr": "jabberslythehide",
+		"price": 22,
+		"category": "Leathers",
+		"defname": "RH_TET_Leather_Jabberslythe"
+	},
+	{
+		"abr": "jabberslythe'stongue",
+		"price": 750,
+		"category": "Items",
+		"defname": "RH_TET_JabberTounge"
+	},
+	{
+		"abr": "jerky",
+		"price": 7,
+		"category": "Preserved foods",
+		"defname": "RH_TET_Jerky"
+	},
+	{
+		"abr": "jesterhat",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "VFEM2_Apparel_JesterHat"
+	},
+	{
+		"abr": "jesteroutfit",
+		"price": 179,
+		"category": "Apparel",
+		"defname": "VFEM2_Apparel_JesterOutfit"
+	},
+	{
+		"abr": "juggernaughtmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RH_TET_Daemon_Juggernaught"
+	},
+	{
+		"abr": "juggernaughtmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RH_TET_Daemon_Bloodcrusher"
+	},
+	{
+		"abr": "kageshainlamp",
+		"price": 96,
+		"category": "Furniture",
+		"defname": "KAGESHAINLamp"
+	},
+	{
+		"abr": "kageshainlamp(blue)",
+		"price": 96,
+		"category": "Furniture",
+		"defname": "KAGESHAINLamp_Blue"
+	},
+	{
+		"abr": "kageshainlamp(green)",
+		"price": 96,
+		"category": "Furniture",
+		"defname": "KAGESHAINLamp_Green"
+	},
+	{
+		"abr": "kageshainlamp(red)",
+		"price": 96,
+		"category": "Furniture",
+		"defname": "KAGESHAINLamp_Red"
+	},
+	{
+		"abr": "kageshainlamp(violet)",
+		"price": 96,
+		"category": "Furniture",
+		"defname": "KAGESHAINLamp_Violet"
+	},
+	{
+		"abr": "kageshainlamp(yellow)",
+		"price": 96,
+		"category": "Furniture",
+		"defname": "KAGESHAINLamp_Yellow"
+	},
+	{
+		"abr": "karomufsculpture",
+		"price": 1417,
+		"category": "Furniture",
+		"defname": "KAROMUF"
+	},
+	{
+		"abr": "khornatebelt",
+		"price": 2500,
+		"category": "Magic artifacts",
+		"defname": "RH_TET_Magic_Apparel_KhorneBelt"
+	},
+	{
+		"abr": "khornegor",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "RH_TET_Beastmen_Alien_Khornegor"
+	},
+	{
+		"abr": "khorngorhorn",
+		"price": 417,
+		"category": "Beastmen",
+		"defname": "RH_TET_Beastmen_KhorngorHorn"
+	},
+	{
+		"abr": "king’srobes",
+		"price": 297,
+		"category": "Apparel",
+		"defname": "VFEM2_Apparel_KingsRobes"
+	},
+	{
+		"abr": "king'scrown",
+		"price": 260,
+		"category": "Headgear",
+		"defname": "VFEM2_Apparel_KingsCrown"
+	},
+	{
+		"abr": "king'sthrone",
+		"price": 3092,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarfs_KingsThrone"
+	},
+	{
+		"abr": "kitchenbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Kitchen_I"
+	},
+	{
+		"abr": "kitchenbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Kitchen_II"
+	},
+	{
+		"abr": "kitchenbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Kitchen_III"
+	},
+	{
+		"abr": "kitchenbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Kitchen_IV"
+	},
+	{
+		"abr": "kitchenbot",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RPP_Bot_Kitchen_V"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": 1750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": 3167,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "kitchen(iii)basestation",
+		"price": 8333,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "kitchen(iv)basestation",
+		"price": 18750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "kitchen(v)basestation",
+		"price": 43750,
+		"category": "Robots",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "kiwi",
+		"price": 133,
+		"category": "Animals",
+		"defname": "RG_KiwiBird"
+	},
+	{
+		"abr": "kiwiegg(fert.)",
+		"price": 42,
+		"category": "Eggs (fert.)",
+		"defname": "RG_EggKiwiFertilized"
+	},
+	{
+		"abr": "kiwimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_KiwiBird"
+	},
+	{
+		"abr": "korastartearmor",
+		"price": 3333,
+		"category": "Imperial Armor",
+		"defname": "IG_ARM_PwrAstarte"
+	},
+	{
+		"abr": "korastartehelmet",
+		"price": 1667,
+		"category": "Imperial Headgear",
+		"defname": "IG_HELM_PwrAstarte"
+	},
+	{
+		"abr": "korterminatorarmor",
+		"price": 4167,
+		"category": "Imperial Armor",
+		"defname": "IG_ARM_KR_Terminator"
+	},
+	{
+		"abr": "korterminatorhelmet",
+		"price": 2083,
+		"category": "Imperial Headgear",
+		"defname": "IG_HELM_KR_Terminator"
+	},
+	{
+		"abr": "krakgrenade",
+		"price": 583,
+		"category": "Imperial Grenades",
+		"defname": "Grenade_Krak"
+	},
+	{
+		"abr": "krudneppsinglebed",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingle"
+	},
+	{
+		"abr": "kurimeal",
+		"price": 30,
+		"category": "Meals",
+		"defname": "RH_TET_Dwarf_KuriMeal"
+	},
+	{
+		"abr": "lamponlamp",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "LAMPONLamp"
+	},
+	{
+		"abr": "lanternofdays",
+		"price": 2500,
+		"category": "Magic",
+		"defname": "RH_TET_LanternOfDays"
+	},
+	{
+		"abr": "largecape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_LargeCape"
+	},
+	{
+		"abr": "largecheckerdoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigCheckerLeather"
+	},
+	{
+		"abr": "largecircularglass",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "LargeCircularGlass"
+	},
+	{
+		"abr": "largecrate",
+		"price": 417,
+		"category": "Storage",
+		"defname": "sbz_Crate"
+	},
+	{
+		"abr": "largecrudeaxe",
+		"price": 50,
+		"category": "Beastmen",
+		"defname": "RH_TET_Beastmen_MeleeWeapon_BigAxe"
+	},
+	{
+		"abr": "largedawisculpture",
+		"price": 517,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarfs_SculptureLarge"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "Alias_DoorMatLarge"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "largedwarfsteamradiator",
+		"price": 592,
+		"category": "Dwarfen",
+		"defname": "RH_TET_Dwarfs_SteamRadiatorBig"
+	},
+	{
+		"abr": "largeempiresculpture",
+		"price": 517,
+		"category": "Empire",
+		"defname": "RH_TET_Empire_SculptureLarge"
+	},
+	{
+		"abr": "largerunestone",
+		"price": 100,
+		"category": "Beastmen",
+		"defname": "RH_TET_Beastmen_GorStoneL"
+	},
+	{
+		"abr": "largeskavensculpture",
+		"price": 517,
+		"category": "Skaven",
+		"defname": "RH_TET_Skaven_SculptureLarge"
+	},
+	{
+		"abr": "laspistol",
+		"price": 292,
+		"category": "Imperial Ranged Weapons",
+		"defname": "Gun_LasPistol"
+	},
+	{
+		"abr": "lascarbine",
+		"price": 5167,
+		"category": "Ranged weapons",
+		"defname": "GF40K_LaserCarbine"
+	},
+	{
+		"abr": "lasersmg",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_LaserSMG"
+	},
+	{
+		"abr": "lasgun",
+		"price": 5167,
+		"category": "Ranged weapons",
+		"defname": "GF40K_LaserGun"
+	},
+	{
+		"abr": "lasgun",
+		"price": 750,
+		"category": "Imperial Ranged Weapons",
+		"defname": "Gun_LasGun"
+	},
+	{
+		"abr": "laspistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GF40K_LaserPistol"
+	},
+	{
+		"abr": "learningpotion:animals",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Animals"
+	},
+	{
+		"abr": "learningpotion:artistic",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Artistic"
+	},
+	{
+		"abr": "learningpotion:construction",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Construction"
+	},
+	{
+		"abr": "learningpotion:cooking",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Cooking"
+	},
+	{
+		"abr": "learningpotion:crafting",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Crafting"
+	},
+	{
+		"abr": "learningpotion:intellectual",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Intellectual"
+	},
+	{
+		"abr": "learningpotion:medicine",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Medicine"
+	},
+	{
+		"abr": "learningpotion:melee",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Melee"
+	},
+	{
+		"abr": "learningpotion:mining",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Mining"
+	},
+	{
+		"abr": "learningpotion:plants",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Plants"
+	},
+	{
+		"abr": "learningpotion:shooting",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Shooting"
+	},
+	{
+		"abr": "learningpotion:social",
+		"price": 1250,
+		"category": "Magic trainers",
+		"defname": "RH_TET_Magic_PotionTrainer_Social"
+	},
+	{
+		"abr": "leatherarmor",
+		"price": 825,
+		"category": "Armor",
+		"defname": "VFEM2_Apparel_LeatherArmor"
+	},
+	{
+		"abr": "leatherboilpot",
+		"price": 123,
+		"category": "Production",
+		"defname": "VFEM2_LeatherBoilpot"
+	},
+	{
+		"abr": "leatherhelmet",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "VFEM2_Apparel_LeatherHelmet"
+	},
+	{
+		"abr": "linkeddoormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "Alias_DoorMatLinked"
+	},
+	{
+		"abr": "lockepatternbolter(t1)",
+		"price": 2500,
+		"category": "Imperial Ranged Weapons",
+		"defname": "Gun_BoltGun"
+	},
+	{
+		"abr": "locus-solushadescyberbrain",
+		"price": 8583,
+		"category": "Cyberbrain",
+		"defname": "gitsHADESCyberbrain"
+	},
+	{
+		"abr": "locustcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_LocustCape"
+	},
+	{
+		"abr": "lokhustdestroyer(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T4_LokhustDestroyer_Szarekhan"
+	},
+	{
+		"abr": "lokhustheavydestroyer(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T4_HeavytDestroyer_Szarekhan"
+	},
+	{
+		"abr": "lokhustlord(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T5_LokhustLord_Szarekhan"
+	},
+	{
+		"abr": "longrangemissileturret",
+		"price": 29092,
+		"category": "Security",
+		"defname": "MissileTurret"
+	},
+	{
+		"abr": "long-las",
+		"price": 6667,
+		"category": "Ranged weapons",
+		"defname": "GF40K_LaserSniper"
+	},
+	{
+		"abr": "lord(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T3_Lord_Szarekhan"
+	},
+	{
+		"abr": "lordling",
+		"price": 60,
+		"category": "Meals",
+		"defname": "Lordling"
+	},
+	{
+		"abr": "lordokisculpture",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "LORDOKI"
+	},
+	{
+		"abr": "lovepotion",
+		"price": 1667,
+		"category": "Magic",
+		"defname": "RH_TET_Potion_Love"
+	},
+	{
+		"abr": "lychguard(szarekhan)awakeningprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_T5_Lychguard_Szarekhan"
+	},
+	{
+		"abr": "lyman'sear(t3)",
+		"price": 5000,
+		"category": "Imperial Augments",
+		"defname": "IG_Aug_LYMAN"
+	},
+	{
+		"abr": "magicarm",
+		"price": 4667,
+		"category": "Magic",
+		"defname": "RH_TET_Magic_MagicArm"
+	},
+	{
+		"abr": "magiceye",
+		"price": 4667,
+		"category": "Magic",
+		"defname": "RH_TET_Magic_MagicEye"
+	},
+	{
+		"abr": "magicleg",
+		"price": 4667,
+		"category": "Magic",
+		"defname": "RH_TET_Magic_MagicLeg"
+	},
+	{
+		"abr": "maglevcoils",
+		"price": 2500,
+		"category": "Cybernetics",
+		"defname": "BEWH_MaglevCoils"
+	},
+	{
+		"abr": "magneticcoil",
+		"price": 2000,
+		"category": "Manufactured",
+		"defname": "MagneticCoil"
+	},
+	{
+		"abr": "mammothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_WoollyMammoth"
+	},
+	{
+		"abr": "mammothtusk",
+		"price": 200,
+		"category": "Misc",
+		"defname": "RG_MammothTusk"
+	},
+	{
+		"abr": "manipulatormechadendrite",
+		"price": 4167,
+		"category": "Cybernetics",
+		"defname": "BEWH_ManipulatorMechadendrite"
+	},
+	{
+		"abr": "mannequinstand",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFEM2_MannequinStand"
+	}
 	],
-	"total": 6943
+	"total": 7378
 }

@@ -28665,6 +28665,28 @@
       },
       "defName": "RH_TET_LoreOfStealthTrait",
       "name": "stealthloremaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a stunted intellect, they operate at a level similar to children and as such cannot perform complex task.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer 40.000 - Abhumans",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_OgrynStuntedIntellect",
+      "name": "stuntedintellect"
     }
   ],
   "races": [
