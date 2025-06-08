@@ -30,6 +30,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -66,12 +72,6 @@
     "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.5.0.4"
-  },
-  {
     "author": "Alan Dariva and Usagirei",
     "name": "More Planning [1.5]",
     "steamId": null,
@@ -87,7 +87,7 @@
     "author": "Soul, Phaneron and Bradson",
     "name": "Adaptive Storage Framework",
     "steamId": "3033901359",
-    "version": "1.2.1+1b3d12d07c712c020aabac8255d0a856a9d12cce"
+    "version": "1.2.3+10a6768515e5076b41ff8179501422bba6839c68"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -201,7 +201,7 @@
     "author": "NukaFrog",
     "name": "BioReactor (Continued)",
     "steamId": "3307031939",
-    "version": "1.5.10"
+    "version": "1.5.12"
   },
   {
     "author": "m00nl1ght",
@@ -942,6 +942,18 @@
     "version": null
   },
   {
+    "author": "Ogliss",
+    "name": "Smokeleaf Industry Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Big Veech",
+    "name": "Metals Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
@@ -1236,6 +1248,12 @@
     "version": "0.9.0"
   },
   {
+    "author": "Supes",
+    "name": "Map Wide Orbital Trade Beacon",
+    "steamId": "1839069104",
+    "version": "1.0.0.3"
+  },
+  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
@@ -1248,8 +1266,56 @@
     "version": null
   },
   {
+    "author": "vin",
+    "name": "LWM's Adaptive Deep Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Reel",
+    "name": "Reel's Expanded Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nalzurin, Athitei and Zeues",
+    "name": "Bionix Automator",
+    "steamId": "3357286019",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sam",
     "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "NuanKi",
+    "name": "Un-Limited Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "Josh Mate",
+    "name": "Better Traders",
     "steamId": null,
     "version": null
   },
@@ -1299,7 +1365,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.91"
+    "version": "1.5.97"
   },
   {
     "author": "Nephlite and Maxim",
@@ -1704,6 +1770,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.7.0.0"
+  },
+  {
     "author": "Xercaine",
     "name": "Wall Heater",
     "steamId": null,
@@ -1768,6 +1840,18 @@
     "name": "[sbz] Neat Storage",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Research Tree (Continued)",
+    "steamId": "3030499331",
+    "version": "1.5.33"
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
   },
   {
     "author": "Krkr",
